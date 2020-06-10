@@ -1,4 +1,4 @@
-## Welcome to the Homepage of the SECPPS Worksjop Series (Website under development)
+## Welcome to the Homepage of the SECPPS Workshop Series
 
 Software is playing an increasingly important role in assuring effective and efficient operation of industrial automation engineering systems. However software engineering methods applied in this field lag behind the conventional software engineering methods, where tremendous progress has been made in the last years.
 
@@ -13,3 +13,7 @@ The aim of this workshop is to discuss new approaches and methods for the design
 <a href="https://www.se.jku.at/manuel-wimmer">Manuel Wimmer</a>, SE, Johannes Kepler University Linz, Austria
 
 <a href="https://www.jku.at/linz-institute-of-technology/forschung/research-labs/cyber-physical-systems-lab/team/univ-prof-di-dr-alois-zoitl/">Alois Zoitl</a>, LIT CPS, Johannes Kepler University Linz, Austria
+
+## Website under development
+
+...
