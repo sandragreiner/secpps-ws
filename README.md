@@ -10,7 +10,7 @@ The workshop on Software Engineering in Cyber-Physical Production Systems (SECPP
 
 <a href="https://www.mw.tum.de/ais/lehrstuhl/personen/prof-vogel-heuser/">Birgit Vogel-Heuser</a> is Full Professor at the Institute of Automation and Information Systems at Technical University Munich, Germany. 
 
-<a href="https://www.se.jku.at/manuel-wimmer">Manuel Wimmer</a>, SE, Johannes Kepler University Linz, Austria is Full Professor at the Department of Business Informatics - Software Engineering at JKU Linz, Austria and is the head of the Christian Doppler Laboratory CDL-MINT. 
+<a href="https://www.se.jku.at/manuel-wimmer">Manuel Wimmer</a> is Full Professor at the Department of Business Informatics - Software Engineering at JKU Linz, Austria and is the head of the Christian Doppler Laboratory CDL-MINT. 
 
 <a href="https://www.jku.at/linz-institute-of-technology/forschung/research-labs/cyber-physical-systems-lab/team/univ-prof-di-dr-alois-zoitl/">Alois Zoitl</a> is Full Professor for Cyber-Physical Systems for Engineering and Production at the Linz Institute of Technology (LIT) at Johannes Kepler University Linz, Austria. 
 
