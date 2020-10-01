@@ -6,7 +6,7 @@ The workshop on Software Engineering in Cyber-Physical Production Systems (SECPP
 
 ## SECPPS 2021
 
-The 2021 Edition of this Workshop series -- it's first instance -- will be collocated with the <a href="https://se-2021.tu-bs.de/">Software Engineering (SE21)</a> conference, to be held from Feb 22-26, 2021, organized in a virtual format by TU Braunschweig, Germany.
+The 2021 Edition of this Workshop series -- it's first instance -- will be collocated with the <a href="https://se-2021.tu-bs.de/"><b>Software Engineering (SE21)</b></a> conference, to be held from Feb 22-26, 2021, organized in a virtual format by TU Braunschweig, Germany.
 
 The workshop will take place on <b>February 23, 2021</b>, 09:00-17:00 CET (with enough breaks).
 
@@ -40,6 +40,12 @@ The workshop will be concluded with setting up a collaborative space to document
 # Virtual Format
 
 For holding the workshop virtually, we plan to use Zoom to live-stream all presentations and enable discussions and break-out groups. We will additionally rely on a shared online whiteboard (e.g., Miro) to support discussions and creative processes. Stay tuned for further information
+
+# Registration
+
+SECPPS 2021 is collocated with the <a href="https://se-2021.tu-bs.de/"><b>Software Engineering (SE21)</b></a> conference, to be held from Feb 22-26, 2021, organized in a virtual format by TU Braunschweig, Germany.
+
+Please use the registration system of SE21 (URL TBD) to register for the workshop. Participation in the workshop itself is free as is participation in SE21 (if you have no paper). If you have a paper at SE21 or another workshop, you have to pay for this paper, of course.
 
 # Agenda (tentative)
 
