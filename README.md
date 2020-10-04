@@ -53,7 +53,7 @@ Please use the registration system of SE21 (URL TBD) to register for the worksho
 
 <ul>
   <li>09:00-10:30 Opening and Keynotes (incl. Q&A)</li>
-  <li>09:10-09:50 <b>Keynote 1 Prof. Birgit Vogel-Heuser</b> -- Title TBD on SE and CPPS</li>
+  <li>09:10-09:50 <b>Keynote 1 Prof. Birgit Vogel-Heuser</b> Forever Young Automated Production Systems</li>
   <li>09:50-10:30 <b>Keynote 2 (TBD)</b> by someone from the SE community talking about SE and CPPS</li>
 
   <li>10:30-11:00 Break</li>
@@ -72,6 +72,12 @@ Please use the registration system of SE21 (URL TBD) to register for the worksho
 
   <li>17:00 Wrap/Up/Discussion/Plan next steps</li>
 </ul>
+
+# Keynotes
+
+<b>Keynote 1 <a href="https://www.mw.tum.de/ais/lehrstuhl/personen/prof-vogel-heuser/">Prof. Birgit Vogel-Heuser</a></b> Forever Young Automated Production Systems
+
+Wie können sich automatisierte Produktionssysteme selbst anpassen bzw. wie kann die Systemevolution solcher Systeme gemanagt werden? Die Systemevolution von automatisierte Produktionssysteme, kurz aPS, ist in aller Munde unter dem Stichwort Industrie 4.0 oder Cyber Physical Production Systems. Neben den gekoppelten System- und Softwaremodellen auf denen solche Anpassungen basieren, werden Agentenansätze vorgestellt, die die Rekonfiguration auf verschiedenen Ebenen der aPS erlauben. Ein Schwerpunkt wird auf Modularität und Variabilität als Voraussetzung solcher Systeme gelegt und auf Refactoring-Ansätze, um zu dieser zu gelangen.
 
 # Call/Publication of Results
 
