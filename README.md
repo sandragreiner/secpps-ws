@@ -45,7 +45,7 @@ For holding the workshop virtually, we plan to use Zoom to live-stream all prese
 
 SECPPS 2021 is collocated with the <a href="https://se-2021.tu-bs.de/"><b>Software Engineering (SE21)</b></a> conference, to be held from Feb 22-26, 2021, organized in a virtual format by TU Braunschweig, Germany.
 
-Please use the registration system of SE21 (URL TBD) to register for the workshop. Participation in the workshop itself is free as is participation in SE21 (if you have no paper). If you have a paper at SE21 or another workshop, you have to pay for this paper, of course.
+Please use the <a href="https://se-2021.tu-bs.de/registrierung/">registration system of SE21</a> to register for the workshop. Participation in the workshop itself is free as is participation in SE21 (if you have no paper). If you have a paper at SE21 or another workshop, you have to pay for this paper, of course.
 
 # Agenda (tentative)
 
