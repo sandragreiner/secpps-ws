@@ -79,6 +79,10 @@ Please use the <a href="https://se-2021.tu-bs.de/registrierung/">registration sy
 
 Wie können sich automatisierte Produktionssysteme selbst anpassen bzw. wie kann die Systemevolution solcher Systeme gemanagt werden? Die Systemevolution von automatisierte Produktionssysteme, kurz aPS, ist in aller Munde unter dem Stichwort Industrie 4.0 oder Cyber Physical Production Systems. Neben den gekoppelten System- und Softwaremodellen auf denen solche Anpassungen basieren, werden Agentenansätze vorgestellt, die die Rekonfiguration auf verschiedenen Ebenen der aPS erlauben. Ein Schwerpunkt wird auf Modularität und Variabilität als Voraussetzung solcher Systeme gelegt und auf Refactoring-Ansätze, um zu dieser zu gelangen.
 
+<b>Keynote 2 TBD</b> Title
+
+Abstract
+
 # Call/Publication of Results
 
 We do <b>not</b> call for scientific papers but rather are inviting specific people from the community, which will be asked to give provocative opening statements. As a result of the workshop, we want to summarize the key findings (open challenges of SE in CPPS/research roadmap) as a technical report and a subset of this report is planned to be published via a general scientific computer science/software engineering magazine or journal. We will invite workshop participants to co-author this report.
