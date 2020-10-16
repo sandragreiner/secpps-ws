@@ -4,11 +4,11 @@ Software is playing an increasingly important role in assuring effective and eff
 
 The workshop on Software Engineering in Cyber-Physical Production Systems (SECPPS) aims to discuss new approaches and methods for the design of software for use in the production systems domain, which follows the latest trends from the software engineering domain. Additionally, the workshop will address the challenges in adopting state-of-the-art software engineering tools and techniques to the automation domain and discuss various approaches to tackle the issues. Particularly, we are currently facing a dramatically increasing complexity in the development and operation of systems with the emergence of Cyber-Physical Production Systems (CPPS). This demands for more comprehensive and systematic views on all aspects of systems (e.g., mechanics, electronics, software, and network) not only in the engineering process, but in the operation process as well. Moreover, flexible approaches are needed to adapt the systems’ behavior to ever-changing requirements and tasks, unexpected conditions, as well as structural transformations.
 
-## SECPPS 2021
+## SECPPS 2021 (Feb 22, 2021)
 
 The 2021 Edition of this Workshop series -- it's first instance -- will be collocated with the <a href="https://se-2021.tu-bs.de/"><b>Software Engineering (SE21)</b></a> conference, to be held from Feb 22-26, 2021, organized in a virtual format by TU Braunschweig, Germany.
 
-The workshop will take place on <b>February 23, 2021</b>, 09:00-17:00 CET (with enough breaks).
+The workshop will take place on <b>February 22, 2021</b>, 09:00-17:00 CET (with enough breaks).
 
 We aim for an interactive format to stimulate group discussions which potentially lead to further activities such as joint publications, projects, and networks.
 
@@ -49,7 +49,7 @@ Please use the <a href="https://se-2021.tu-bs.de/registrierung/">registration sy
 
 # Agenda (tentative)
 
-<b>February 23, 2021</b>, 09:00-17:00 CET
+<b>February 22, 2021</b>, 09:00-17:00 CET
 
 <ul>
   <li>09:00-10:30 Opening and Keynotes (incl. Q&A)</li>
