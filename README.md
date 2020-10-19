@@ -39,7 +39,7 @@ The workshop will be concluded with setting up a collaborative space to document
 
 # Virtual Format
 
-For holding the workshop virtually, we plan to use Zoom to live-stream all presentations and enable discussions and break-out groups. We will additionally rely on a shared online whiteboard (e.g., Miro) to support discussions and creative processes. Stay tuned for further information.
+For holding the workshop virtually, we plan to use Zoom or WebEx to live-stream all presentations and enable discussions and break-out groups. We will additionally rely on a shared online whiteboard (e.g., Miro) to support discussions and creative processes. Stay tuned for further information.
 
 # Registration
 
