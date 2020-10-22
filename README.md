@@ -54,7 +54,7 @@ Please use the <a href="https://se-2021.tu-bs.de/registrierung/">registration sy
 <ul>
   <li>09:00-10:30 Opening and Keynotes (incl. Q&A)</li>
   <li>09:10-09:50 <b>Keynote 1 Prof. Birgit Vogel-Heuser</b> Forever Young Automated Production Systems</li>
-  <li>09:50-10:30 <b>Keynote 2 (TBD)</b> by someone from the SE community talking about SE and CPPS</li>
+  <li>09:50-10:30 <b>Keynote 2 Prof. Matthias Jarke und Dr. Istvan Koren</b> Synthesizing Software Engineering Perspectives on CPPS: The Case of the Internet of Production</li>
 
   <li>10:30-11:00 Break</li>
 
@@ -79,9 +79,9 @@ Please use the <a href="https://se-2021.tu-bs.de/registrierung/">registration sy
 
 Wie können sich automatisierte Produktionssysteme selbst anpassen bzw. wie kann die Systemevolution solcher Systeme gemanagt werden? Die Systemevolution von automatisierte Produktionssysteme, kurz aPS, ist in aller Munde unter dem Stichwort Industrie 4.0 oder Cyber Physical Production Systems. Neben den gekoppelten System- und Softwaremodellen auf denen solche Anpassungen basieren, werden Agentenansätze vorgestellt, die die Rekonfiguration auf verschiedenen Ebenen der aPS erlauben. Ein Schwerpunkt wird auf Modularität und Variabilität als Voraussetzung solcher Systeme gelegt und auf Refactoring-Ansätze, um zu dieser zu gelangen.
 
-<b>Keynote 2 TBD</b> Title
+<b>Keynote 2 <a href="http://dbis.rwth-aachen.de/cms/staff/jarke">Prof. Matthias Jarke</a> und <a href="http://dbis.rwth-aachen.de/cms/staff/koren">Dr. Istvan Koren<a></b> Synthesizing Software Engineering Perspectives on CPPS: The Case of the Internet of Production
 
-Abstract
+Abstract to be added
 
 # Call/Publication of Results
 
