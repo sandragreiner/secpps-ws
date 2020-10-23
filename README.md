@@ -81,7 +81,7 @@ Wie können sich automatisierte Produktionssysteme selbst anpassen bzw. wie kann
 
 <b>Keynote 2 <a href="http://dbis.rwth-aachen.de/cms/staff/jarke">Prof. Matthias Jarke</a> und <a href="http://dbis.rwth-aachen.de/cms/staff/koren">Dr. Istvan Koren</a></b> Synthesizing Software Engineering Perspectives on CPPS: The Case of the Internet of Production
 
-Abstract to be added
+Als CPPS-orientierte Fokussierung des Internet der Dinge verbindet das Internet der Produktion (IoP) bisher isolierte Datenquellen aus cyberphysischen Produktionssystemen und Informationssystemen der beteiligten Stakeholder mit dem Ziel effektiverer Innovation durch weltweite Verzahnung von Produktentwicklung, Produktionsbetrieb und Produktnutzung. Software-Engineering-Ansätze werden dabei mit Aspekten des Datenmanagements und maschinellen Lernens sowie auch der Kommunikationstechnik verzahnt. Um die Komplexität zu managen, setzen wir einerseits auf das Konzept des Digitalen Schattens als anwendungsbezogene Datenabstraktion, anderseits unterstützt unsere DevOpsUse-Methodik durch die kontinuierliche Einbeziehung der Endnutzer Nachhaltigkeit im Entwicklungsprozess.
 
 # Call/Publication of Results
 
