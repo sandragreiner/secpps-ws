@@ -39,7 +39,7 @@ The workshop will be concluded with setting up a collaborative space to document
 
 # Virtual Format
 
-For holding the workshop virtually, we plan to use Zoom or WebEx to live-stream all presentations and enable discussions and break-out groups. We will additionally rely on a shared online whiteboard (e.g., Miro) to support discussions and creative processes. Stay tuned for further information.
+For holding the workshop virtually, we plan to use Zoom (the link will be sent out via email) to live-stream all presentations and enable discussions and break-out groups. We will additionally rely on a shared online whiteboard to support discussions and creative processes. Stay tuned for further information.
 
 # Registration
 
@@ -58,7 +58,7 @@ Please use the <a href="https://se-2021.tu-bs.de/registrierung/">registration sy
 
   <li>10:30-11:00 Break</li>
 
-  <li>11:00-12:00 Introductory round and discussion (each workshop participant introduces his-/herself and clarifies his/her expectations for the workshop and maybe a provocative statement and/or challenges for SE in CPPS)</li>
+  <li>11:00-12:00 Introductory round and discussion (each workshop participant introduces his-/herself and clarifies his/her expectations for the workshop and maybe puts out a provocative statement and/or challenges for SE in CPPS s/he would want to discuss)</li>
 
   <li>12:00 Voting on topics and definition of break-out groups (and their leaders)</li>
 
