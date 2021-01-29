@@ -64,13 +64,13 @@ Please use the <a href="https://se-2021.tu-bs.de/registrierung/">registration sy
 
   <li>12:15-13:30 Lunch break</li>
 
-  <li>13:30-15:30 Break-out groups</li>
+  <li>13:30-15:00 Break-out groups</li>
 
-  <li>15:30-16:00 Break</li>
+  <li>15:00-15:30 Break</li>
 
-  <li>16:00-17:00 Presentation of results of the break-out groups (by the break-out group leaders) and discussion in the large audience to come up with a collaborative research roadmap and networks to identify potential collaborations incl. planning publication of results</li>
+  <li>15:30-16:30 Presentation of results of the break-out groups (by the break-out group leaders) and discussion in the large audience to come up with a collaborative research roadmap and networks to identify potential collaborations incl. planning publication of results</li>
 
-  <li>17:00 Wrap/Up/Discussion/Plan next steps</li>
+  <li>16:30 Wrap/Up/Discussion/Plan next steps</li>
 </ul>
 
 # Keynotes
