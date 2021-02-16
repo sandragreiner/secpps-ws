@@ -23,10 +23,11 @@ The results of the break-out groups will be presented (by the break-out group le
 For the lightning talks and the discussions we foresee the following initial list of topics:
 
 <ul>
-  <li>Engineering Process (Requirements, Design, Implementation, Testing, ...)</li>
+  <li>Engineering Process (Requirements, design, implementation, testing, ...)</li>
   <li>Operation and Evolution (Data-driven, continuous integration, DevOps, agile, ...)</li>
   <li>Languages (DSLs, GPLs, standards, ...)</li>
-  <li>Modeling (MDD, MDE, Transformations, Interoperability, Code generation ...)</li>
+  <li>Modeling (MDD, MDE, transformations, interoperability, code generation ...)</li>
+  <li>Security and Safety (CPPS-specific safety/security protection objectives, security analysis, ...)</li>
   <li>Teaching (how to train SE in other disciplines, open courseware, ...)</li>
   <li>Management (Variability, modularization, configuration, ... )</li>
   <li>Usability and SE Tools (adoption, user interactions, ...)</li>
@@ -39,7 +40,7 @@ The workshop will be concluded with setting up a collaborative space to document
 
 # Virtual Format
 
-For holding the workshop virtually, we plan to use Zoom (the link will be sent out via email) to live-stream all presentations and enable discussions and break-out groups. We will additionally rely on a shared online whiteboard to support discussions and creative processes. Stay tuned for further information.
+For holding the workshop virtually, we plan to use Zoom (the link will be sent out via email) to live-stream all presentations and enable discussions and break-out groups. We will additionally rely on a shared online whiteboard to support discussions and creative processes.
 
 # Registration
 
