@@ -109,6 +109,17 @@ Moreover, we will invite the participants to join the ongoing work of the SECPPS
 
 ## Archive
 
+# SECPPS 2021/2 (April 27, 2021)
+
+On April 27, 2021, the participants of SECPSS 2021 at SE21 met again, virtually to further discuss the results of the break-out groups and form working groups. As a result, we formed the following working groups (if you are interested to join, please contact the group leaders indicated below):
+
+<ul>
+  <li>Modeling, Variability and Standardization (Andreas Wortmann, Uni Stuttgart and Manuel Wimmer, JKU Linz)</li>
+  <li>Interdisciplinarity (Birgit Vogel-Heuser, TU Munich)</li>
+  <li>Case Studies and Demonstrators (Alois Zoitl, JKU Linz)</li>
+  <li>Digital Twins, AI and Development Processes (Christian Sauer, Uni Hildesheim)</li>
+</ul>
+
 # SECPPS 2021 (Feb 22, 2021)
 
 The 2021 Edition of this Workshop series -- it's first instance -- was collocated with the Software Engineering (SE21) conference, held from Feb 22-26, 2021, organized in a virtual format by TU Braunschweig, Germany.
