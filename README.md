@@ -20,7 +20,7 @@ To reach this goal, we plan to invite two keynote speakers: one from the SE comm
 
 After the keynotes, we will have project showcases demonstrating applications of and technologies for SECPPS, for which we will invite industrial, semi-industrial (e.g., Fraunhofer), and academic (such as from the Internet of Production excellence cluster) researchers and engineers.
 
-These presentations will be followed by brief lightning talks (invited, about 5 minutes, based on a common presentation template). After each talk, questions, challenges, and statements will be collected to be potentially discussed in break-out groups.  
+These presentations will be followed by brief lightning talks (invited, about 5 minutes, based on a common presentation template) as well as presentations of results of the earlier SECPPS workshops. After each talk, questions, challenges, and statements will be collected to be potentially discussed in break-out groups.  
 
 The collected statements from the morning sessions will be clustered and the participants can vote for topics to be discussed in break-out groups. The results of the break-out groups will be presented (by the break-out group leaders) and discussed in the large audience to update our collaborative research roadmap and networks.
 
