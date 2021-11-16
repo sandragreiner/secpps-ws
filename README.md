@@ -20,9 +20,7 @@ To reach this goal, we plan to invite two keynote speakers: one from the SE comm
 
 After the keynotes, we will have project showcases demonstrating applications of and technologies for SECPPS, for which we will invite industrial, semi-industrial (e.g., Fraunhofer), and academic (such as from the Internet of Production excellence cluster) researchers and engineers.
 
-These presentations will be followed by brief lightning talks (invited, about 5 minutes, based on a common presentation template) as well as presentations of results of the earlier SECPPS workshops. After each talk, questions, challenges, and statements will be collected to be potentially discussed in break-out groups.  
-
-The collected statements from the morning sessions will be clustered and the participants can vote for topics to be discussed in break-out groups. The results of the break-out groups will be presented (by the break-out group leaders) and discussed in the large audience to update our collaborative research roadmap and networks.
+These presentations will be followed by brief lightning talks (invited, about 5 minutes) as well as presentations of results of the earlier SECPPS workshops. After each talk, questions, challenges, and statements will be collected to be potentially discussed in break-out groups in the afternoon.  
 
 For the lightning talks and the discussions we foresee the following initial list of topics:
 
@@ -65,17 +63,15 @@ Please use the registration system of SE22 to register for the workshop.
 
   <li>11:00-12:00 Project showcases</li>
   
-  <li>12:00-12:30 Lightning talks and presentations of results of the earlier SECPPS workshops</li>
+  <li>12:00-13:00 Lightning talks and presentations of results of the earlier SECPPS workshops</li>
 
-  <li>12:30 Voting on topics and definition of break-out groups (and their leaders)</li>
+  <li>13:00-14:00 Lunch break</li>
 
-  <li>12:45-14:00 Lunch break</li>
-
-  <li>14:00-15:30 Break-out groups</li>
+  <li>14:00-15:30 Interactive Part TBD</li>
 
   <li>15:30-16:00 Break</li>
 
-  <li>16:00-17:00 Presentation of results of the break-out groups (by the break-out group leaders) and discussion in the large audience to update our collaborative research roadmap and networks incl. planning publication of results</li>
+  <li>16:00-17:00 Presentation of results of interactive part and discussion in the large audience</li>
 
   <li>17:00 Wrap/Up/Discussion/Plan next steps</li>
 </ul>
