@@ -55,25 +55,29 @@ Please use the registration system of SE22 to register for the workshop.
 <b>February 21, 2022</b>, 09:00-17:15 CET
 
 <ul>
-  <li>09:00-10:30 Opening and Keynotes (incl. Q&A)</li>
-  <li>09:10-09:50 <b>Keynote 1 TBD</b></li>
-  <li>09:50-10:30 <b>Keynote 2 TBD</b></li>
-
-  <li>10:30-11:00 Break</li>
-
-  <li>11:00-12:00 Project showcases</li>
+  <li>09:00-10:30 Opening and Keynotes (40min each incl. Q&A)</li>
+  <ul>
+    <li>09:10-09:50 Keynote 1 TBD</li>
+    <li>09:50-10:30 Keynote 2 TBD</li>
+  </ul>
   
-  <li>12:00-13:00 Lightning talks and presentations of results of the earlier SECPPS workshops</li>
-
-  <li>13:00-14:00 Lunch break</li>
-
-  <li>14:00-15:30 Interactive Part TBD</li>
-
-  <li>15:30-16:00 Break</li>
-
-  <li>16:00-17:00 Presentation of results of interactive part and discussion in the large audience</li>
-
-  <li>17:00 Wrap/Up/Discussion/Plan next steps</li>
+  <li>10:30-11:00 Break</li>
+  
+  <li>11:00-12:30 Project showcases (10min each + 5min Q&A)</li>
+  
+  <li>12:30-13:30 Lunch break</li>
+  
+  <li>13:30-14:30 Lightning talks (5min each + 5min Q&A)</li>
+  
+  <li>14:30-15:00 SECPPS Reading Club Results / Challenge Paper Planning (JKU (Kevin Feichtinger), definition of break-out groups</li>
+  
+  <li>15:00-15:30 Break</li>
+  
+  <li>15:30-16:30 Break-out groups (e.g., Paper Planning, ...)</li>
+  
+  <li>16:30-17:00 Presentation of break-out group results and discussion in the large audience</li>
+  
+  <li>17:00 Wrap/Up/Discussion/Plan next steps (esp. Next Workshop Fokus/Agenda)</li>
 </ul>
 
 # Keynotes
