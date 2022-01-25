@@ -82,7 +82,9 @@ Please use the registration system of SE22 to register for the workshop.
 
 # Keynotes
 
-<b>Keynote 1 TBD</b>
+<b><a href="https://www.isw.uni-stuttgart.de/institut/team/Verl/">Prof. Alexander Verl</a>: Quo vadis Produktionsautomatisierung?</b>
+
+Software treibt unsere Fähigkeiten der Produktionsautomatisierung. Durch neue Softwaremethoden für Digitale Zwillinge basierend auf Echtzeitsimulation und die Anwendung künstlicher Intelligenz in der Produktionsautomatisierung ermöglicht und begünstigt sie neue Produktionsmethoden, neue Anwendungen in der Industrierobotik und sogar neuartige Geschäftsmodelle in der Werkzeugmaschinenindustrie. Dieser Vortrag beleuchtet Forschungs- und Entwicklungstrends in der Produktionsautomatisierung aus dem Blickwinkel eines Steuerungstechnikers.
 
 <b>Keynote 2 TBD</b>
 
