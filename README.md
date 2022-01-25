@@ -57,7 +57,7 @@ Please use the registration system of SE22 to register for the workshop.
 <ul>
   <li>09:00-10:30 Opening and Keynotes (40min each incl. Q&A)</li>
   <ul>
-    <li>09:10-09:50 Keynote 1 TBD</li>
+    <li>09:10-09:50 Prof. Alexander Verl</li>
     <li>09:50-10:30 Keynote 2 TBD</li>
   </ul>
   
