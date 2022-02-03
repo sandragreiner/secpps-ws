@@ -58,7 +58,7 @@ Please use the registration system of SE22 to register for the workshop (and the
   <li>09:00-10:30 Opening and Keynotes (40min each incl. Q&A)</li>
   <ul>
     <li>09:10-09:50 Prof. Alexander Verl: Quo vadis Produktionsautomatisierung?</li>
-    <li>09:50-10:30 Prof. Ralf Reussner: Titel TBD</li>
+    <li>09:50-10:30 Prof. Ralf Reussner: Multi-Model Development of CPS: Can Software Engineering Methods help?</li>
   </ul>
   
   <li>10:30-11:00 Break</li>
@@ -86,9 +86,9 @@ Please use the registration system of SE22 to register for the workshop (and the
 
 Software treibt unsere Fähigkeiten der Produktionsautomatisierung. Durch neue Softwaremethoden für Digitale Zwillinge basierend auf Echtzeitsimulation und die Anwendung künstlicher Intelligenz in der Produktionsautomatisierung ermöglicht und begünstigt sie neue Produktionsmethoden, neue Anwendungen in der Industrierobotik und sogar neuartige Geschäftsmodelle in der Werkzeugmaschinenindustrie. Dieser Vortrag beleuchtet Forschungs- und Entwicklungstrends in der Produktionsautomatisierung aus dem Blickwinkel eines Steuerungstechnikers.
 
-<b><a href="https://dsis.kastel.kit.edu/staff_ralf_reussner.php">Prof. Ralf Reussner</a>: Titel TBD</b>
+<b><a href="https://dsis.kastel.kit.edu/staff_ralf_reussner.php">Prof. Ralf Reussner</a>: Multi-Model Development of CPS: Can Software Engineering Methods help?</b>
 
-Abstract TBD
+The term software Engineering often refers to the transfer of engineering methods to the construction of software. Model based simulation, lean production are among the techniques inspired by electrical and mechanical engineering. However, through the increased role of software in basically all engineering artifacts and due to the advancement of software engineering methods, one could ask whether software engineering also has some methods to export to, for example, systems engineering? In this talk we try to give answers to these questions and illustrate it with research challenges from the field of multi-model development in vehicle engineering.
 
 # Publication of Results
 
