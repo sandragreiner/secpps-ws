@@ -48,7 +48,7 @@ For holding the workshop virtually, we plan to use a video conferencing system s
 
 SECPPS 2022 is collocated with the <a href="https://www.se-2022.de/"><b>Software Engineering (SE22)</b></a> conference, to be held from Feb 21-25, 2022, organized in a virtual format by the Humboldt-University Berlin.
 
-Please use the registration system of SE22 to register for the workshop.
+Please use the registration system of SE22 to register for the workshop (and the conference), it's free this year.
 
 # Agenda (tentative)
 
@@ -90,11 +90,11 @@ Software treibt unsere Fähigkeiten der Produktionsautomatisierung. Durch neue S
 
 Abstract TBD
 
-# Call/Publication of Results
+# Publication of Results
 
-We do not call for scientific papers but rather are looking for lightning talks, project showcases, and provocative opening statements by participants, which they will have to submit before the workshop using a slide template we will provide. 
+We do not call for scientific papers but rather are looking for lightning talks and project showcases by participants, which they will have to propose before the workshop. 
 
-As a result of the workshop, we want to summarize the key findings as a technical report and a subset of this report is planned to be published via a general magazine such as IEEE Software, IEEE Computer, or CACM. We will invite workshop participants to co-author this report. 
+As a result of the workshop, we want to summarize the key findings as a technical report and a subset of this report is planned to be published via a relevant conference or journal.
 
 Moreover, we will invite the participants to join the ongoing work of the SECPPS community which started with SECPPS'21 and continues until today.
 
