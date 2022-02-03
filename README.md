@@ -57,8 +57,8 @@ Please use the registration system of SE22 to register for the workshop.
 <ul>
   <li>09:00-10:30 Opening and Keynotes (40min each incl. Q&A)</li>
   <ul>
-    <li>09:10-09:50 Prof. Alexander Verl</li>
-    <li>09:50-10:30 Keynote 2 TBD</li>
+    <li>09:10-09:50 Prof. Alexander Verl: Quo vadis Produktionsautomatisierung?</li>
+    <li>09:50-10:30 Prof. Ralf Reussner: Titel TBD</li>
   </ul>
   
   <li>10:30-11:00 Break</li>
@@ -86,7 +86,9 @@ Please use the registration system of SE22 to register for the workshop.
 
 Software treibt unsere Fähigkeiten der Produktionsautomatisierung. Durch neue Softwaremethoden für Digitale Zwillinge basierend auf Echtzeitsimulation und die Anwendung künstlicher Intelligenz in der Produktionsautomatisierung ermöglicht und begünstigt sie neue Produktionsmethoden, neue Anwendungen in der Industrierobotik und sogar neuartige Geschäftsmodelle in der Werkzeugmaschinenindustrie. Dieser Vortrag beleuchtet Forschungs- und Entwicklungstrends in der Produktionsautomatisierung aus dem Blickwinkel eines Steuerungstechnikers.
 
-<b>Keynote 2 TBD</b>
+<b><a href="https://dsis.kastel.kit.edu/staff_ralf_reussner.php">Prof. Ralf Reussner</a>: Titel TBD</b>
+
+Abstract TBD
 
 # Call/Publication of Results
 
