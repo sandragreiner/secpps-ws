@@ -106,7 +106,7 @@ Moreover, we will invite the participants to join the ongoing work of the SECPPS
 
 <a href="https://www.se.jku.at/manuel-wimmer">Manuel Wimmer</a> is Full Professor at the Department of Business Informatics - Software Engineering at JKU Linz, Austria. 
 
-<a href="https://www.isw.uni-stuttgart.de/institut/team/Wortmann-00002/">Andreas Wortmann</a> is Junior Professor Tenure-Track professor for Model-based Development in Production Automation at the Institute for Control Engineering of Machine Tools and Manufacturing Units at the University of Stuttgart, Germany. 
+<a href="https://www.isw.uni-stuttgart.de/institut/team/Wortmann-00002/">Andreas Wortmann</a> is Junior Tenure-Track Professor for Model-based Development in Production Automation at the Institute for Control Engineering of Machine Tools and Manufacturing Units at the University of Stuttgart, Germany. 
 
 <a href="https://www.jku.at/linz-institute-of-technology/forschung/research-labs/cyber-physical-systems-lab/team/univ-prof-di-dr-alois-zoitl/">Alois Zoitl</a> is Full Professor for Cyber-Physical Systems for Engineering and Production at the Linz Institute of Technology (LIT) at Johannes Kepler University Linz, Austria. 
 
