@@ -57,17 +57,17 @@ Please use the registration system of SE22 to register for the workshop (and the
 <ul>
   <li>09:00-10:30 Opening and Keynotes (40min each incl. Q&A)</li>
   <ul>
-    <li>09:10-09:50 Prof. Alexander Verl: Quo vadis Produktionsautomatisierung?</li>
-    <li>09:50-10:30 Prof. Ralf Reussner: Multi-Model Development of CPS: Can Software Engineering Methods help?</li>
+    <li>09:10-09:50 Prof. Alexander Verl: Quo vadis Produktionsautomatisierung? (Moderator: Andreas Wortmann)</li>
+    <li>09:50-10:30 Prof. Ralf Reussner: Multi-Model Development of CPS: Can Software Engineering Methods help? (Moderator: Rick Rabiser)</li>
   </ul>
   
   <li>10:30-11:00 Break</li>
   
-  <li>11:00-12:30 Project showcases (10min each + 5min Q&A, see below)</li>
+  <li>11:00-12:30 Project showcases (10min each + 5min Q&A, see below) (Moderator: Manuel Wimmer)</li>
   
   <li>12:30-13:30 Lunch break</li>
   
-  <li>13:30-14:30 Lightning talks (5min each + 5min Q&A, see below)</li>
+  <li>13:30-14:30 Lightning talks (5min each + 5min Q&A, see below) (Moderator: Alois Zoitl)</li>
   
   <li>14:30-15:00 SECPPS Reading Club Results / Challenge Paper Planning (JKU (Kevin Feichtinger), definition of break-out groups</li>
   
