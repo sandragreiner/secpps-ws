@@ -63,11 +63,11 @@ Please use the registration system of SE22 to register for the workshop (and the
   
   <li>10:30-11:00 Break</li>
   
-  <li>11:00-12:30 Project showcases (10min each + 5min Q&A)</li>
+  <li>11:00-12:30 Project showcases (10min each + 5min Q&A, see below)</li>
   
   <li>12:30-13:30 Lunch break</li>
   
-  <li>13:30-14:30 Lightning talks (5min each + 5min Q&A)</li>
+  <li>13:30-14:30 Lightning talks (5min each + 5min Q&A, see below)</li>
   
   <li>14:30-15:00 SECPPS Reading Club Results / Challenge Paper Planning (JKU (Kevin Feichtinger), definition of break-out groups</li>
   
@@ -78,6 +78,27 @@ Please use the registration system of SE22 to register for the workshop (and the
   <li>16:30-17:00 Presentation of break-out group results and discussion in the large audience</li>
   
   <li>17:00 Wrap/Up/Discussion/Plan next steps (esp. Next Workshop Fokus/Agenda)</li>
+</ul>
+
+# Project Showcases
+
+<ul>
+	<li>Software-Defined Manufacturing / Software-Defined Car (Uni Stuttgart (Andreas Wortmann))</li>
+	<li>KI in der Spritzenfertigung bei Gerresheimer (Uni Hildesheim (Holger Eichelberger))</li>
+	<li>Christian Doppler Labor Mastering Variability in Software-Intensive Cyber-Physical Production Systems (CDL VaSiCS) (JKU (Rick Rabiser und Alois Zoitl))</li>
+	<li>Digitale Zwillinge als Enabler autonomer Wertschöpfungsnetzwerke mit erhöhter Produktivität (TUM (Felix Ocker))</li>
+	<li>Explainable AI for automated Production Systems (Uni Koblenz-Landau (Marco Konersmann))</li>
+	<li>Konsistenzprüfung bei der Modellierung von Materialflusssystemen (paluno)</li>
+</ul>
+  
+# Lightning Talks
+
+<ul>
+	<li>Collective Adaptive Systems für resiliente Infrastrukturen Ideen aus dem DevOpt Projekt (Uni Hildesheim (Klaus Schmid))</li>
+	<li>Engineering Digital Twins (JKU (Manuel Wimmer))</li>
+	<li>The State of Contract-Based Design in IEC 61499 (OFFIS (Jörg Walter))</li>
+	<li>Enabling Process Mining from IoT Data in a Smart Factory Model (Universität St.Gallen (Ronny Seiger))</li>
+	<li>Industrie 4.0 Software Platforms: Desires, State and Challenges aus dem IIP-Ecosphere-Projekt (Uni Hildesheim (Holger Eichelberger))  </li> 
 </ul>
 
 # Keynotes
