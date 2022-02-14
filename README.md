@@ -50,7 +50,7 @@ SECPPS 2022 is collocated with the <a href="https://www.se-2022.de/"><b>Software
 
 Please use the registration system of SE22 to register for the workshop (and the conference), it's free this year.
 
-# Agenda (tentative)
+# Agenda
 
 <b>February 21, 2022</b>, 09:00-17:15 CET
 
@@ -58,7 +58,7 @@ Please use the registration system of SE22 to register for the workshop (and the
   <li>09:00-10:30 Opening and Keynotes (40min each incl. Q&A)</li>
   <ul>
     <li>09:10-09:50 Prof. Alexander Verl: Quo vadis Produktionsautomatisierung? (Moderator: Andreas Wortmann)</li>
-    <li>09:50-10:30 Prof. Ralf Reussner: Multi-Model Development of CPS: Can Software Engineering Methods help? (Moderator: TBD)</li>
+    <li>09:50-10:30 Prof. Ralf Reussner: Multi-Model Development of CPS: Can Software Engineering Methods help? (Moderator: Rick Rabiser)</li>
   </ul>
   
   <li>10:30-11:00 Break</li>
