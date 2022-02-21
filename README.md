@@ -88,7 +88,7 @@ Please use the registration system of SE22 to register for the workshop (and the
 	<li>Christian Doppler Labor Mastering Variability in Software-Intensive Cyber-Physical Production Systems (CDL VaSiCS) (JKU (Rick Rabiser und Alois Zoitl))</li>
 	<li>Digitale Zwillinge als Enabler autonomer Wertschöpfungsnetzwerke mit erhöhter Produktivität (TUM (Felix Ocker))</li>
 	<li>Explainable AI for automated Production Systems (Uni Koblenz-Landau (Marco Konersmann))</li>
-	<li>Konsistenzprüfung bei der Modellierung von Materialflusssystemen (paluno)</li>
+	<li>Konsistenzprüfung bei der Modellierung von Materialflusssystemen (paluno (Rafael Schypula und Max Wünneberg))</li>
 </ul>
   
 # Lightning Talks
