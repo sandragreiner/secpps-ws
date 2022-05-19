@@ -26,7 +26,7 @@ The first in-presence edition of our workshop takes place in the <a href="https:
 
 # Agenda
 
-We, 1.6.
+<b>We, 1.6.</b>
 
 <ul>
 <li>14:00 – 14:10 Welcome by A. Zoitl, M. Wimmer, A. Wortmann</li>
@@ -37,7 +37,7 @@ We, 1.6.
 <li>17:30 – 18:00 Wrap Up Day 1</li>
 </ul>
 
-Th, 2.6.
+<b>Th, 2.6.</b>
 
 <ul>
 <li>09:00 Start Day 2</li>
@@ -58,7 +58,7 @@ Th, 2.6.
 <li>23:00 Back via Taxis</li>
 </ul>
 
-Fr, 3.6.
+<b>Fr, 3.6.</b>
 
 <ul>
 <li>09:00 Start Day 3</li>
