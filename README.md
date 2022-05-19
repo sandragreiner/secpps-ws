@@ -8,7 +8,13 @@ The workshop on Software Engineering in Cyber-Physical Production Systems (SECPP
 
 We have set up a Google Drive Folder in which we collected the results of the workshops (notes, drawings, presentations). We also have set up a Github repository to collect reading material (SECPPS Body of Knowledge). Access to both is restricted. Please join our initiative to get access, e.g., be registering for and participating in one of the next editions of our workshop series (see below) or by contacting the organizers.
 
-## SECPPS 2022 (Feb 21, 2022)
+## SECPPS 2022/2 (Internationale Akademie Traunkirchen, Jun 1-3, 2022)
+
+...
+
+## Archive
+
+# SECPPS 2022/1 (Feb 21, 2022)
 
 The 2022 Edition of this Workshop series -- it's second instance collocated to SE and the overall fourth instance -- will be collocated with the <a href="https://www.se-2022.de/"><b>Software Engineering (SE22)</b></a> conference, to be held from Feb 21-25, 2022, organized in a virtual format by the Humboldt-University Berlin.
 
@@ -130,9 +136,6 @@ Moreover, we will invite the participants to join the ongoing work of the SECPPS
 <a href="https://www.isw.uni-stuttgart.de/institut/team/Wortmann-00002/">Andreas Wortmann</a> is Junior Tenure-Track Professor for Model-based Development in Production Automation at the Institute for Control Engineering of Machine Tools and Manufacturing Units at the University of Stuttgart, Germany. 
 
 <a href="https://www.jku.at/linz-institute-of-technology/forschung/research-labs/cyber-physical-systems-lab/team/univ-prof-di-dr-alois-zoitl/">Alois Zoitl</a> is Full Professor for Cyber-Physical Systems for Engineering and Production at the Linz Institute of Technology (LIT) at Johannes Kepler University Linz, Austria. 
-
-
-## Archive
 
 # SECPPS 2021/3 (October 1, 2021)
 
