@@ -17,36 +17,57 @@ The first in-presence edition of our workshop takes place in the <a href="https:
 We, 1.6.
 
 14:00 – 14:10 Welcome by A. Zoitl, M. Wimmer, A. Wortmann
+
 14:10 – 14:30 Introduction Round
+
 14:30 – 15:30 Collecting Topics, Pitches for Topics (Barcamp-Style) (Moderator: Jörg Walter)
+
 15:30 – 16:00 Coffee and Snacks
+
 16:00 – 17:30 Barcamp Round 1
+
 17:30 – 18:00 Wrap Up Day 1
 
 Th, 2.6.
 
 09:00 Start Day 2
+
 09:15 – 10:30 2 Keynotes (Moderator: Alois Zoitl)
+
 **Keynote 1: Andreas Wortmann** – Missing links: why we are far from “engineering” digital twins
+
 **Keynote 2: Bianca Wiesmayr und Rick Rabiser** – Usability of Software Engineering Tools
+
 10:30 – 11:00 Coffee and Snacks
+
 11:00 – 11:30 Collecting Topics, Pitches for Topics (Barcamp-Style) (Moderator: Jörg Walter)
+
 11:30 – 12:30 Barcamp Round 2
+
 12:30 – 14:00 Lunch Gasthaus Post
+
 14:00 – 15:30 Barcamp Round 3
+
 15:30 – 16:00 Coffee and Snacks
+
 16:00 – 17:00 Discussion & Wrap Up Day 2
 
 17:30 Boat to Gmunden
+
 ca. 19:00 Dinner in Gmunden (Dollmann's)
+
 23:00 Back via Taxis
 
 Fr, 3.6.
 
 09:00 Start Day 3
+
 09:10 – 10:30 Present Results of Barcamp Rounds
+
 10:30 – 11:00 Coffee and Snacks
+
 11:00 – 12:30 Wrap-Up (Write Report) and Next Steps
+
 12:30 – 14:00 Lunch Gasthaus Post
 
 # Results
