@@ -8,6 +8,18 @@ The workshop on Software Engineering in Cyber-Physical Production Systems (SECPP
 
 We have set up a Google Drive Folder in which we collected the results of the workshops (notes, drawings, presentations). We also have set up a Github repository to collect reading material (SECPPS Body of Knowledge). Access to both is restricted. Please join our initiative to get access, e.g., be registering for and participating in one of the next editions of our workshop series (see below) or by contacting the organizers.
 
+## Organizers
+
+<a href="https://rickrabiser.github.io/rick/">Rick Rabiser</a> is Full Professor for Software Engineering in Cyber-Physical Systems at the Linz Institute of Technology (LIT) at Johannes Kepler University Linz, Austria. 
+
+<a href="https://www.mw.tum.de/ais/lehrstuhl/personen/prof-vogel-heuser/">Birgit Vogel-Heuser</a> is Full Professor at the Institute of Automation and Information Systems at Technical University Munich, Germany. 
+
+<a href="https://www.se.jku.at/manuel-wimmer">Manuel Wimmer</a> is Full Professor at the Department of Business Informatics - Software Engineering at JKU Linz, Austria. 
+
+<a href="https://www.isw.uni-stuttgart.de/institut/team/Wortmann-00002/">Andreas Wortmann</a> is Junior Tenure-Track Professor for Model-based Development in Production Automation at the Institute for Control Engineering of Machine Tools and Manufacturing Units at the University of Stuttgart, Germany. 
+
+<a href="https://www.jku.at/linz-institute-of-technology/forschung/research-labs/cyber-physical-systems-lab/team/univ-prof-di-dr-alois-zoitl/">Alois Zoitl</a> is Full Professor for Cyber-Physical Systems for Engineering and Production at the Linz Institute of Technology (LIT) at Johannes Kepler University Linz, Austria. 
+
 ## SECPPS 2022/2 (Internationale Akademie Traunkirchen, Jun 1-3, 2022)
 
 The first in-presence edition of our workshop takes place in the <a href="https://www.akademietraunkirchen.com/">International Academy Traunkirchen</a> from June 1-3, 2022. Participants from our mailing list were invited to attend and about 25 people confirmed attendance.
@@ -172,18 +184,6 @@ We do not call for scientific papers but rather are looking for lightning talks 
 As a result of the workshop, we want to summarize the key findings as a technical report and a subset of this report is planned to be published via a relevant conference or journal.
 
 Moreover, we will invite the participants to join the ongoing work of the SECPPS community which started with SECPPS'21 and continues until today.
-
-## Organizers
-
-<a href="https://rickrabiser.github.io/rick/">Rick Rabiser</a> is Full Professor for Software Engineering in Cyber-Physical Systems at the Linz Institute of Technology (LIT) at Johannes Kepler University Linz, Austria. 
-
-<a href="https://www.mw.tum.de/ais/lehrstuhl/personen/prof-vogel-heuser/">Birgit Vogel-Heuser</a> is Full Professor at the Institute of Automation and Information Systems at Technical University Munich, Germany. 
-
-<a href="https://www.se.jku.at/manuel-wimmer">Manuel Wimmer</a> is Full Professor at the Department of Business Informatics - Software Engineering at JKU Linz, Austria. 
-
-<a href="https://www.isw.uni-stuttgart.de/institut/team/Wortmann-00002/">Andreas Wortmann</a> is Junior Tenure-Track Professor for Model-based Development in Production Automation at the Institute for Control Engineering of Machine Tools and Manufacturing Units at the University of Stuttgart, Germany. 
-
-<a href="https://www.jku.at/linz-institute-of-technology/forschung/research-labs/cyber-physical-systems-lab/team/univ-prof-di-dr-alois-zoitl/">Alois Zoitl</a> is Full Professor for Cyber-Physical Systems for Engineering and Production at the Linz Institute of Technology (LIT) at Johannes Kepler University Linz, Austria. 
 
 # SECPPS 2021/3 (October 1, 2021)
 
