@@ -31,8 +31,8 @@ Th, 2.6.
 <li>09:00 Start Day 2</li>
 <li>09:15 – 10:30 2 Keynotes (Moderator: Alois Zoitl)</li>
 <ul>
-<li>**Keynote 1: Andreas Wortmann** – Missing links: why we are far from “engineering” digital twins</li>
-<li>**Keynote 2: Bianca Wiesmayr und Rick Rabiser** – Usability of Software Engineering Tools</li>
+<li><b>Keynote 1: Andreas Wortmann</b> – Missing links: why we are far from “engineering” digital twins</li>
+<li><b>Keynote 2: Bianca Wiesmayr und Rick Rabiser</b> – Usability of Software Engineering Tools</li>
 </ul>
 <li>10:30 – 11:00 Coffee and Snacks</li>
 <li>11:00 – 11:30 Collecting Topics, Pitches for Topics (Barcamp-Style) (Moderator: Jörg Walter)</li>
