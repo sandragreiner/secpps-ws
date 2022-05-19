@@ -10,7 +10,7 @@ We have set up a Google Drive Folder in which we collected the results of the wo
 
 ## SECPPS 2022/2 (Internationale Akademie Traunkirchen, Jun 1-3, 2022)
 
-The first in-presence edition of our workshop takes place in the International Academy Traunkirchen from June 1-3, 2022. Participants from our mailing list were invited to attend and about 25 people confirmed attendance.
+The first in-presence edition of our workshop takes place in the <a href="https://www.akademietraunkirchen.com/">International Academy Traunkirchen</a> from June 1-3, 2022. Participants from our mailing list were invited to attend and about 25 people confirmed attendance.
 
 # Agenda
 
