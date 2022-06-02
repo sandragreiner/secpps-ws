@@ -70,7 +70,11 @@ The first in-presence edition of our workshop takes place in the <a href="https:
 
 # Results
 
-We will produce and publish a report after the workshop.
+We will produce and publish a short report after the workshop that will be distributed to participants and members of the SECPPS community.
+
+# Fotos
+
+<img src="https://github.com/RickRabiser/secpps-ws/blob/master/DSC_3801.JPG?raw=true">
 
 ## Archive
 
