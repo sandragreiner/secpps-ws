@@ -76,6 +76,10 @@ We will produce and publish a short report after the workshop that will be distr
 
 <img src="https://github.com/RickRabiser/secpps-ws/blob/master/DSC_3801.JPG?raw=true">
 
+<img src="https://github.com/RickRabiser/secpps-ws/blob/master/_20220602_094032.JPG?raw=true">
+
+<img src="https://github.com/RickRabiser/secpps-ws/blob/master/DSC_3790.JPG?raw=true">
+
 ## Archive
 
 # SECPPS 2022/1 (Feb 21, 2022)
