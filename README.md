@@ -44,7 +44,7 @@ The first in-presence edition of our workshop takes place in the <a href="https:
 <li>09:15 – 10:30 2 Keynotes (Moderator: Alois Zoitl)</li>
 <ul>
 <li><b>Keynote 1: Andreas Wortmann</b> – Missing links: why we are far from “engineering” digital twins</li>
-<li><b>Keynote 2: Bianca Wiesmayr and Rick Rabiser</b> – Usability of Software Engineering Tools</li>
+<li><b>Keynote 2: Bianca Wiesmayr and Rick Rabiser</b> – <a href="https://drive.google.com/file/d/12IQPB7tj2y7UBUuJYB2PSorkzfa4_OLz/">Usability of Software Engineering Tools</a></li>
 </ul>
 <li>10:30 – 11:00 Coffee and Snacks</li>
 <li>11:00 – 11:30 Collecting Topics, Pitches for Topics (Barcamp-Style) (Moderator: Jörg Walter)</li>
