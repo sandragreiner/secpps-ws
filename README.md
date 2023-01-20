@@ -10,15 +10,15 @@ We have set up a Google Drive Folder in which we collected the results of the wo
 
 ## Organizers
 
-<a href="https://rickrabiser.github.io/rick/">Rick Rabiser</a> is Full Professor for Software Engineering in Cyber-Physical Systems at the Linz Institute of Technology (LIT) at Johannes Kepler University Linz, Austria. 
+<a href="https://rickrabiser.github.io/rick/">Rick Rabiser</a> is Full Professor for Software Engineering in Cyber-Physical Systems at the Linz Institute of Technology (LIT) at Johannes Kepler University Linz, Austria and is leading the Christian Doppler Laboratory VaSiCS.
 
 <a href="https://www.mw.tum.de/ais/lehrstuhl/personen/prof-vogel-heuser/">Birgit Vogel-Heuser</a> is Full Professor at the Institute of Automation and Information Systems at Technical University Munich, Germany. 
 
-<a href="https://www.se.jku.at/manuel-wimmer">Manuel Wimmer</a> is Full Professor at the Department of Business Informatics - Software Engineering at JKU Linz, Austria. 
+<a href="https://www.se.jku.at/manuel-wimmer">Manuel Wimmer</a> is Full Professor at the Department of Business Informatics - Software Engineering at JKU Linz, Austria and is leading the Christian Doppler Laboratory CDL-MINT.
 
 <a href="https://www.isw.uni-stuttgart.de/institut/team/Wortmann-00002/">Andreas Wortmann</a> is Junior Tenure-Track Professor for Model-based Development in Production Automation at the Institute for Control Engineering of Machine Tools and Manufacturing Units at the University of Stuttgart, Germany. 
 
-<a href="https://www.jku.at/linz-institute-of-technology/forschung/research-labs/cyber-physical-systems-lab/team/univ-prof-di-dr-alois-zoitl/">Alois Zoitl</a> is Full Professor for Cyber-Physical Systems for Engineering and Production at the Linz Institute of Technology (LIT) at Johannes Kepler University Linz, Austria. 
+<a href="https://www.jku.at/linz-institute-of-technology/forschung/research-labs/cyber-physical-systems-lab/team/univ-prof-di-dr-alois-zoitl/">Alois Zoitl</a> is Full Professor for Cyber-Physical Systems for Engineering and Production at the Linz Institute of Technology (LIT) at Johannes Kepler University Linz, Austria and is leading the Christian Doppler Laboratory VaSiCS.
 
 ## SECPPS 2022/2 (Internationale Akademie Traunkirchen, Jun 1-3, 2022)
 
@@ -280,10 +280,10 @@ Als CPPS-orientierte Fokussierung des Internet der Dinge verbindet das Internet 
 
 ## Organizers SECPPS 2021
 
-<a href="https://rickrabiser.github.io/rick/">Rick Rabiser</a> is Full Professor for Software Engineering in Cyber-Physical Systems at the Linz Institute of Technology (LIT) at Johannes Kepler University Linz, Austria. 
+<a href="https://rickrabiser.github.io/rick/">Rick Rabiser</a> is Full Professor for Software Engineering in Cyber-Physical Systems at the Linz Institute of Technology (LIT) at Johannes Kepler University Linz, Austria and is leading the Christian Doppler Laboratory VaSiCS.
 
 <a href="https://www.mw.tum.de/ais/lehrstuhl/personen/prof-vogel-heuser/">Birgit Vogel-Heuser</a> is Full Professor at the Institute of Automation and Information Systems at Technical University Munich, Germany. 
 
-<a href="https://www.se.jku.at/manuel-wimmer">Manuel Wimmer</a> is Full Professor at the Department of Business Informatics - Software Engineering at JKU Linz, Austria. 
+<a href="https://www.se.jku.at/manuel-wimmer">Manuel Wimmer</a> is Full Professor at the Department of Business Informatics - Software Engineering at JKU Linz, Austria and is leading the Christian Doppler Laboratory CDL-MINT.
 
-<a href="https://www.jku.at/linz-institute-of-technology/forschung/research-labs/cyber-physical-systems-lab/team/univ-prof-di-dr-alois-zoitl/">Alois Zoitl</a> is Full Professor for Cyber-Physical Systems for Engineering and Production at the Linz Institute of Technology (LIT) at Johannes Kepler University Linz, Austria. 
+<a href="https://www.jku.at/linz-institute-of-technology/forschung/research-labs/cyber-physical-systems-lab/team/univ-prof-di-dr-alois-zoitl/">Alois Zoitl</a> is Full Professor for Cyber-Physical Systems for Engineering and Production at the Linz Institute of Technology (LIT) at Johannes Kepler University Linz, Austria and is leading the Christian Doppler Laboratory VaSiCS.
