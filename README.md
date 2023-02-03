@@ -20,7 +20,48 @@ We have set up a Google Drive Folder in which we collected the results of the wo
 
 <a href="https://www.jku.at/linz-institute-of-technology/forschung/research-labs/cyber-physical-systems-lab/team/univ-prof-di-dr-alois-zoitl/">Alois Zoitl</a> is Full Professor for Cyber-Physical Systems for Engineering and Production at the Linz Institute of Technology (LIT) at Johannes Kepler University Linz, Austria and is leading the Christian Doppler Laboratory VaSiCS.
 
-## SECPPS 2022/2 (Internationale Akademie Traunkirchen, Jun 1-3, 2022)
+# SECPPS 2023/1 (ETFA 2023, Sep 12-15, 2023)
+
+Our workshop series will have an appearance as Special Session at [ETFA 2023](https://2023.ieee-etfa.org), the 28th International Conference on Emerging Technologies and Factory Automation from September 12-15, 2023.
+
+## Call for Papers
+With the emergence of Cyber-Physical Production Systems (CPPSs), systems engineers are currently facing a dramatic increase in the complexity of developing and operating systems. In particular, software plays a crucial role in the effective and efficient operation of CPPSs. Despite the tremendous progress in software engineering approaches and technologies, they do not seem to reach industry. More comprehensive and systematic views on all aspects of systems and their development process are required. The Special Session on Software Engineering for Cyber-Physical Production Systems aims to discuss challenges in adopting state-of-the-art software engineering approaches and technologies to CPPSs, and highlight new methods for the design of software for production systems.
+
+## Topics
+- Software engineering improvements for and transfer of best practices to CPPSs (e.g., agile methods)
+- Operation, evolution, and management of CPPS software (e.g., DevOps)
+- Software modeling and languages for CPPSs (e.g., model-driven engineering) 
+- Interdisciplinary collaboration in the engineering and operation of CPPS software
+- Software engineering education for CPPS engineers
+- Security, resilience and sustainability of CPPS software by design 
+- Usability of software development environments for CPPS engineering
+
+## Aim
+The aim of the Special Session is to bring together researchers and practitioners from the industry and academia and provide them with a platform to report on recent advances and developments in the area of software engineering for  factory automation.
+
+
+## Conference Format
+The conference will comprise multi-track sessions for regular papers, to present significant and novel research results with a prospect for a tangible impact on the research area and potential implementations, as well as work-in-progress (WiP) and industry practice sessions.
+
+## Important Dates
+
+Please be kindly referred to the [official ETFA website](https://2023.ieee-etfa.org/important-dates) for the current dates and detailed author instructions.
+
+### Regular and Special Session Papers
+- March 31: Submission deadline
+- May 5: Acceptance notification
+- June 16: Deadline for final manuscripts
+
+### Work-in-progress/Industry Practice Papers
+- May 12: Submission deadline
+- June 9: Acceptance notification
+- June 16: Deadline for final manuscripts
+
+
+
+## Archive
+
+# SECPPS 2022/2 (Internationale Akademie Traunkirchen, Jun 1-3, 2022)
 
 The first in-presence edition of our workshop takes place in the <a href="https://www.akademietraunkirchen.com/">International Academy Traunkirchen</a> from June 1-3, 2022. Participants from our mailing list were invited to attend and about 25 people confirmed attendance.
 
@@ -79,8 +120,6 @@ We will produce and publish a short report after the workshop that will be distr
 <img src="https://github.com/RickRabiser/secpps-ws/blob/master/_20220602_094032.JPG?raw=true">
 
 <img src="https://github.com/RickRabiser/secpps-ws/blob/master/DSC_3790.JPG?raw=true">
-
-## Archive
 
 # SECPPS 2022/1 (Feb 21, 2022)
 
