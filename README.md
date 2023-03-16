@@ -37,7 +37,7 @@ Registration and organizational information: Leman Sözücok (sekr-sse@uni-hilde
 <b>We, 1.6.</b>
 
 <ul>
-<li>14:00 – 14:10 Welcome by A. Zoitl, M. Wimmer, A. Wortmann</li>
+<li>14:00 – 14:10 Welcome by K. Schmid</li>
 <li>14:10 – 14:30 Introduction Round</li>
 <li>14:30 – 15:30 Collecting Topics, Pitches for Topics (Barcamp-Style) (Moderator: Jörg Walter)</li>
 <li>15:30 – 16:00 Coffee and Snacks</li>
