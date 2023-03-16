@@ -20,6 +20,67 @@ We have set up a Google Drive Folder in which we collected the results of the wo
 
 <a href="https://www.jku.at/linz-institute-of-technology/forschung/research-labs/cyber-physical-systems-lab/team/univ-prof-di-dr-alois-zoitl/">Alois Zoitl</a> is Full Professor for Cyber-Physical Systems for Engineering and Production at the Linz Institute of Technology (LIT) at Johannes Kepler University Linz, Austria and is leading the Christian Doppler Laboratory VaSiCS.
 
+---
+
+# SECPPS 2023/1 (Universität Hildesheim, May 31st-June 2nd, 2023)
+
+This workshop aims to build on the open format of previous workshops and aims to summarize existing work, identify new input and mostly focus on an open exchange, leading to a co-creative process as a basis for new and future work.  
+
+For more information regarding the workshop (especially for people who are interested to attend for the first time planning  one of the workshops and have questions; please contact Klaus Schmid (schmid@sse.uni-hildesheim.de); https://sse.uni-hildesheim.de/en/staff/prof-dr-klaus-schmid/
+
+Registration and organizational information: Leman Sözücok (sekr-sse@uni-hildesheim.de); https://sse.uni-hildesheim.de/en/staff/leman-soezuecok/
+
+
+
+# Agenda
+
+<b>We, 1.6.</b>
+
+<ul>
+<li>14:00 – 14:10 Welcome by A. Zoitl, M. Wimmer, A. Wortmann</li>
+<li>14:10 – 14:30 Introduction Round</li>
+<li>14:30 – 15:30 Collecting Topics, Pitches for Topics (Barcamp-Style) (Moderator: Jörg Walter)</li>
+<li>15:30 – 16:00 Coffee and Snacks</li>
+<li>16:00 – 17:30 Barcamp Round 1</li>
+<li>17:30 – 18:00 Wrap Up Day 1</li>
+</ul>
+
+<b>Th, 2.6.</b>
+
+<ul>
+<li>09:00 Start Day 2</li>
+<li>09:15 – 10:30 2 Keynotes (Moderator: Alois Zoitl)</li>
+<ul>
+<li><b>Keynote 1: Andreas Wortmann</b> – Missing links: why we are far from “engineering” digital twins</li>
+<li><b>Keynote 2: Bianca Wiesmayr and Rick Rabiser</b> – <a href="https://drive.google.com/file/d/12IQPB7tj2y7UBUuJYB2PSorkzfa4_OLz/">Usability of Software Engineering Tools</a></li>
+</ul>
+<li>10:30 – 11:00 Coffee and Snacks</li>
+<li>11:00 – 11:30 Collecting Topics, Pitches for Topics (Barcamp-Style) (Moderator: Jörg Walter)</li>
+<li>11:30 – 12:30 Barcamp Round 2</li>
+<li>12:30 – 14:00 Lunch Gasthaus Post</li>
+<li>14:00 – 15:30 Barcamp Round 3</li>
+<li>15:30 – 16:00 Coffee and Snacks</li>
+<li>16:00 – 17:00 Discussion & Wrap Up Day 2</li>
+<li>17:30 Boat to Gmunden</li>
+<li>ca. 19:00 Dinner in Gmunden (Dollmann's)</li>
+<li>23:00 Back via Taxis</li>
+</ul>
+
+<b>Fr, 3.6.</b>
+
+<ul>
+<li>09:00 Start Day 3</li>
+<li>09:10 – 10:30 Present Results of Barcamp Rounds</li>
+<li>10:30 – 11:00 Coffee and Snacks</li>
+<li>11:00 – 12:30 Wrap-Up (Write Report) and Next Steps</li>
+<li>12:30 – 14:00 Lunch Gasthaus Post</li>
+</ul>
+
+# Results
+
+We will produce and publish a short report after the workshop that will be distributed to participants and members of the SECPPS community.
+
+# Fotos
 # SECPPS 2023/1 (ETFA 2023, Sep 12-15, 2023)
 
 Our workshop series will have an appearance as Special Session at [ETFA 2023](https://2023.ieee-etfa.org), the 28th International Conference on Emerging Technologies and Factory Automation from September 12-15, 2023.
