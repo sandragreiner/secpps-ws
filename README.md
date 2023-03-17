@@ -32,55 +32,62 @@ Registration and organizational information: Leman Sözücok (sekr-sse@uni-hilde
 
 
 
-# Agenda
+## Agenda
 
-<b>We, 1.6.</b>
+<b>We, 31.5.</b>
 
 <ul>
-<li>14:00 – 14:10 Welcome by K. Schmid</li>
+<li>14:00 – 14:10 Welcome by K. Schmid, H. Eichelberger, C. Sauer</li>
 <li>14:10 – 14:30 Introduction Round</li>
-<li>14:30 – 15:30 Collecting Topics, Pitches for Topics (Barcamp-Style) (Moderator: Jörg Walter)</li>
+<li>14:30 – 15:00 Report on recent advances: short presentations</li> <!-- Papervorträge ATP/ETFA Challenges Paper (Kevin), ICPS Paper (István), Zwiebelschalenthema (Bianca), ETFA Special Session Papers (TBD)? -->
+<li>15:00 – 15:30 ValiCPPS Absicherung von CPPS (Jörg Walter) </li>
 <li>15:30 – 16:00 Coffee and Snacks</li>
-<li>16:00 – 17:30 Barcamp Round 1</li>
+<li>16:00 - 16:30 Agile Needs System Engineering (Jasminka Matevska</li> 
+<li>16:30 - 17:30 Pitches Tool Demos/Demonstrators</li>
 <li>17:30 – 18:00 Wrap Up Day 1</li>
+<br>
+<li>19:00 -       (Optional) Social Dinner Goldmarie (self-pay)
 </ul>
 
-<b>Th, 2.6.</b>
-
+<b>Th, 1.6.</b>
+<!--Meetings der Einzelnen Arbeitsgruppen (DevOps, Zwiebelschale, Challenges/Research Agenda, Neues Thema TBD)-->
 <ul>
 <li>09:00 Start Day 2</li>
-<li>09:15 – 10:30 2 Keynotes (Moderator: Alois Zoitl)</li>
+<li>09:15 – 10:30 2 Keynotes (Moderator: Klaus Schmid)</li>
 <ul>
-<li><b>Keynote 1: Andreas Wortmann</b> – Missing links: why we are far from “engineering” digital twins</li>
-<li><b>Keynote 2: Bianca Wiesmayr and Rick Rabiser</b> – <a href="https://drive.google.com/file/d/12IQPB7tj2y7UBUuJYB2PSorkzfa4_OLz/">Usability of Software Engineering Tools</a></li>
+<li><b>Keynote 1: TBD</b> – Industrial</li>
+<li><b>Keynote 2: Eichelberger</b> - Modell-driven platforms for Industry 4.0, the IIP-Ecosphere case</li>
 </ul>
 <li>10:30 – 11:00 Coffee and Snacks</li>
-<li>11:00 – 11:30 Collecting Topics, Pitches for Topics (Barcamp-Style) (Moderator: Jörg Walter)</li>
-<li>11:30 – 12:30 Barcamp Round 2</li>
-<li>12:30 – 14:00 Lunch Gasthaus Post</li>
-<li>14:00 – 15:30 Barcamp Round 3</li>
+<li>11:00 – 11:45 Collecting Topics, Pitches for Topics (Barcamp-Style) (Moderator: Jörg Walter)</li>
+<li>11:45 – 12:30 Barcamp Round 1</li>
+<li>12:30 – 14:00 Lunch </li>
+<li>14:00 – 15:30 Barcamp Round 2</li>
 <li>15:30 – 16:00 Coffee and Snacks</li>
-<li>16:00 – 17:00 Discussion & Wrap Up Day 2</li>
-<li>17:30 Boat to Gmunden</li>
-<li>ca. 19:00 Dinner in Gmunden (Dollmann's)</li>
-<li>23:00 Back via Taxis</li>
+<li>16:00 – 16:30 Discussion & Wrap Up Day 2</li>  
+<br>
+<li>17:30 Museum Tour</li>
+<li>ca. 19:00 Dinner (included)</li>
 </ul>
 
-<b>Fr, 3.6.</b>
-
+<b>Fr, 2.6.</b>
 <ul>
 <li>09:00 Start Day 3</li>
-<li>09:10 – 10:30 Present Results of Barcamp Rounds</li>
+<li>09:10 – 10:00 Summary Preparation of Working groups</li>
 <li>10:30 – 11:00 Coffee and Snacks</li>
-<li>11:00 – 12:30 Wrap-Up (Write Report) and Next Steps</li>
-<li>12:30 – 14:00 Lunch Gasthaus Post</li>
+<li>11:00 – 12:00 Summary Presentations</li>
+<li>12:00 - 12:30 Next steps and follow-up</li>
+<li>12:30 – 14:00 Lunch</li>
 </ul>
 
-# Results
+## Results
 
 We will produce and publish a short report after the workshop that will be distributed to participants and members of the SECPPS community.
 
-# Fotos
+## Participation
+more details regarding registration will be online soon. Final details on the finances need to be defined. We expect a participation fee of about 110 EUR (including dinner, museum tour, snacks, beverages).
+
+
 # SECPPS 2023/1 (ETFA 2023, Sep 12-15, 2023)
 
 Our workshop series will have an appearance as Special Session at [ETFA 2023](https://2023.ieee-etfa.org), the 28th International Conference on Emerging Technologies and Factory Automation from September 12-15, 2023.
