@@ -30,6 +30,17 @@ For more information regarding the workshop (especially for people who are inter
 
 Registration and organizational information: Leman Sözücok (sekr-sse@uni-hildesheim.de); https://sse.uni-hildesheim.de/en/staff/leman-soezuecok/
 
+
+## Organizers
+
+<a href="https://sse.uni-hildesheim.de/en/staff/prof-dr-klaus-schmid/">Klaus Schmid</a> is Full Professor for Software Engineering at the University of Hildesheim, Germany.
+
+<a href="https://sse.uni-hildesheim.de/en/staff/dr-rer-nat-holger-eichelberger/">Holger Eichelberger</a> is Post-Doc Researcher at the Software Engineering group at the University of Hildesheim, Germany.
+
+<a href="https://sse.uni-hildesheim.de/en/staff/dr-christian-severin-sauer/">Christian Sauer</a> is Post-Doc Researcher at the Software Engineering group at the University of Hildesheim, Germany.
+
+
+
 ## Agenda
 
 <b>We, 31.5.</b>
