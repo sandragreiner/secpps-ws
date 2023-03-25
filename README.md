@@ -10,11 +10,15 @@ We have set up a Google Drive Folder in which we collected the results of the wo
 
 ## Organizers
 
-<a href="https://sse.uni-hildesheim.de/en/staff/prof-dr-klaus-schmid/">Klaus Schmid</a> is Full Professor for Software Engineering at the University of Hildesheim, Germany.
+<a href="https://rickrabiser.github.io/rick/">Rick Rabiser</a> is Full Professor for Software Engineering in Cyber-Physical Systems at the Linz Institute of Technology (LIT) at Johannes Kepler University Linz, Austria and is leading the Christian Doppler Laboratory VaSiCS.
 
-<a href="https://sse.uni-hildesheim.de/en/staff/dr-rer-nat-holger-eichelberger">Holger Eichelberger</a> is Senior researcher at the  Software Engineering group at the University of Hildesheim, Germany. 
+<a href="https://www.mw.tum.de/ais/lehrstuhl/personen/prof-vogel-heuser/">Birgit Vogel-Heuser</a> is Full Professor at the Institute of Automation and Information Systems at Technical University Munich, Germany. 
 
-<a href="https://sse.uni-hildesheim.de/en/staff/dr-christian-severin-sauer/">Christian Sauer</a> is a Post-Doctoral researcher at the  Software Engineering group at the University of Hildesheim, Germany. 
+<a href="https://www.se.jku.at/manuel-wimmer">Manuel Wimmer</a> is Full Professor at the Department of Business Informatics - Software Engineering at JKU Linz, Austria and is leading the Christian Doppler Laboratory CDL-MINT.
+
+<a href="https://www.isw.uni-stuttgart.de/institut/team/Wortmann-00002/">Andreas Wortmann</a> is Junior Tenure-Track Professor for Model-based Development in Production Automation at the Institute for Control Engineering of Machine Tools and Manufacturing Units at the University of Stuttgart, Germany. 
+
+<a href="https://www.jku.at/linz-institute-of-technology/forschung/research-labs/cyber-physical-systems-lab/team/univ-prof-di-dr-alois-zoitl/">Alois Zoitl</a> is Full Professor for Cyber-Physical Systems for Engineering and Production at the Linz Institute of Technology (LIT) at Johannes Kepler University Linz, Austria and is leading the Christian Doppler Laboratory VaSiCS.
 
 ---
 
@@ -31,10 +35,9 @@ Registration and organizational information: Leman Sözücok (sekr-sse@uni-hilde
 
 <a href="https://sse.uni-hildesheim.de/en/staff/prof-dr-klaus-schmid/">Klaus Schmid</a> is Full Professor for Software Engineering at the University of Hildesheim, Germany.
 
-<a href="https://sse.uni-hildesheim.de/en/staff/dr-rer-nat-holger-eichelberger/">Holger Eichelberger</a> is Post-Doc Researcher at the Software Engineering group at the University of Hildesheim, Germany.
+<a href="https://sse.uni-hildesheim.de/en/staff/dr-rer-nat-holger-eichelberger/">Holger Eichelberger</a> is Senior Researcher at the Software Engineering group at the University of Hildesheim, Germany.
 
 <a href="https://sse.uni-hildesheim.de/en/staff/dr-christian-severin-sauer/">Christian Sauer</a> is Post-Doc Researcher at the Software Engineering group at the University of Hildesheim, Germany.
-
 
 
 ## Agenda
