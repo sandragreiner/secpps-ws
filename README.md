@@ -30,8 +30,6 @@ For more information regarding the workshop (especially for people who are inter
 
 Registration and organizational information: Leman Sözücok (sekr-sse@uni-hildesheim.de); https://sse.uni-hildesheim.de/en/staff/leman-soezuecok/
 
-
-
 ## Agenda
 
 <b>We, 31.5.</b>
@@ -41,40 +39,36 @@ Registration and organizational information: Leman Sözücok (sekr-sse@uni-hilde
 <li>14:10 – 14:30 Introduction Round</li>
 <li>14:30 – 15:00 Report on recent advances: short presentations</li> <!-- Papervorträge ATP/ETFA Challenges Paper (Kevin), ICPS Paper (István), Zwiebelschalenthema (Bianca), ETFA Special Session Papers (TBD)? -->
 <li>15:00 – 15:30 ValiCPPS Absicherung von CPPS (Jörg Walter) </li>
-<li>15:30 – 16:00 Coffee and Snacks</li>
+<li>15:30 – 16:00 Break</li>
 <li>16:00 - 16:30 Agile Needs System Engineering (Jasminka Matevska</li> 
 <li>16:30 - 17:30 Pitches Tool Demos/Demonstrators</li>
-<li>17:30 – 18:00 Wrap Up Day 1</li>
+<li>17:30 – 17:45 Wrap Up Day 1</li>
 <br>
-<li>19:00 -       (Optional) Social Dinner Goldmarie (self-pay)
+<li>ca. 19:00  (Optional) Social Dinner Goldmarie (self-pay)
 </ul>
 
 <b>Th, 1.6.</b>
 <!--Meetings der Einzelnen Arbeitsgruppen (DevOps, Zwiebelschale, Challenges/Research Agenda, Neues Thema TBD)-->
 <ul>
-<li>09:00 Start Day 2</li>
-<li>09:15 – 10:30 2 Keynotes (Moderator: Klaus Schmid)</li>
-<ul>
-<li><b>Keynote 1: TBD</b> – Industrial</li>
-<li><b>Keynote 2: Eichelberger</b> - Modell-driven platforms for Industry 4.0, the IIP-Ecosphere case</li>
-</ul>
-<li>10:30 – 11:00 Coffee and Snacks</li>
-<li>11:00 – 11:45 Collecting Topics, Pitches for Topics (Barcamp-Style) (Moderator: Jörg Walter)</li>
-<li>11:45 – 12:30 Barcamp Round 1</li>
+<li>09:00         Start Day 2</li>
+<li>09:05 – 09:50 Model-driven platforms for Industry 4.0, the IIP-Ecosphere case (HolgerEichelberger)</li>
+<li>09:50 – 10:30 Collecting Topics, Pitches for Topics (Barcamp-Style) (Moderator: Jörg Walter)</li>
+<li>10:30 – 11:00 Break</li>
+<li>11:00 – 12:30 Barcamp Round 1</li>
 <li>12:30 – 14:00 Lunch </li>
 <li>14:00 – 15:30 Barcamp Round 2</li>
-<li>15:30 – 16:00 Coffee and Snacks</li>
+<li>15:30 – 16:00 Break</li>
 <li>16:00 – 16:30 Discussion & Wrap Up Day 2</li>  
 <br>
 <li>17:30 Museum Tour</li>
-<li>ca. 19:00 Dinner (included)</li>
+<li>ca. 19:00 Workshop dinner (included)</li>
 </ul>
 
 <b>Fr, 2.6.</b>
 <ul>
 <li>09:00 Start Day 3</li>
 <li>09:10 – 10:00 Summary Preparation of Working groups</li>
-<li>10:30 – 11:00 Coffee and Snacks</li>
+<li>10:30 – 11:00 Break</li>
 <li>11:00 – 12:00 Summary Presentations</li>
 <li>12:00 - 12:30 Next steps and follow-up</li>
 <li>12:30 – 14:00 Lunch</li>
@@ -95,8 +89,9 @@ I will participate on:
 * 2nd of June: yes/no
 
 I will participate in
+* social Dinner (self-pay) (31st of May): yes/no
 * museum tour (1st of June): yes/no
-* dinner (1st of June):  yes/no
+* workshop dinner (1st of June):  yes/no
 
 Dietary restrictions:
 * vegetarian: yes/no
@@ -106,8 +101,6 @@ Dietary restrictions:
 
 Regarding accomodation, you can find information and recommendations at: 
 https://sse.uni-hildesheim.de/kontakt/anfahrt-und-hotels/
-
-
 
 
 ----
