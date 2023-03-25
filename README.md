@@ -89,19 +89,20 @@ For registration, please copy and fill in the following form, and send it via Em
 (The registration fee is 100 EUR, which covers all costs, including the social event on the 1st of June, museum tour, snacks, and beverages. 
 Upon the registration, you will receive the information regarding the bank transfer.)
 
------------------------- | ------------ | --------
-I will participate on:   | 31st of May  | checkbox
-                         | 1st of June  | checkbox
-                         | 2nd of June  | checkbox
------------------------- | ------------ | --------			 
-I will participate       | museum tour  | checkbox
-                         | dinner       | checkbox
------------------------- | ------------ | --------			 
-Dietary restrictions     | vegetarian   | checkbox
-                         | vegan        | checkbox
-                         | other        | checkbox
------------------------- | ------------ | --------			 
-if other, please specify: ______________________
+I will participate on: 
+* 31st of May: yes/no
+* 1st of June: yes/no
+* 2nd of June: yes/no
+
+I will participate in
+* museum tour (1st of June): yes/no
+* dinner (1st of June):  yes/no
+
+Dietary restrictions:
+* vegetarian: yes/no
+* vegan: yes/no
+* other, please specify: _______
+ 
 
 Regarding accomodation, you can find information and recommendations at: 
 https://sse.uni-hildesheim.de/kontakt/anfahrt-und-hotels/
