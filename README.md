@@ -35,14 +35,14 @@ Registration and organizational information: Leman Sözücok (sekr-sse@uni-hilde
 <b>We, 31.5.</b>
 
 <ul>
-<li>14:00 – 14:10 Welcome by K. Schmid, H. Eichelberger, C. Sauer</li>
+<li>14:00 – 14:10 Welcome by Organizers (K. Schmid, H. Eichelberger, C. Sauer)</li>
 <li>14:10 – 14:30 Introduction Round</li>
 <li>14:30 – 15:00 Report on recent advances: short presentations</li> <!-- Papervorträge ATP/ETFA Challenges Paper (Kevin), ICPS Paper (István), Zwiebelschalenthema (Bianca), ETFA Special Session Papers (TBD)? -->
 <li>15:00 – 15:30 ValiCPPS Absicherung von CPPS (Jörg Walter) </li>
 <li>15:30 – 16:00 Break</li>
-<li>16:00 - 16:30 Agile Needs System Engineering (Jasminka Matevska</li> 
-<li>16:30 - 17:30 Pitches Tool Demos/Demonstrators</li>
-<li>17:30 – 17:45 Wrap Up Day 1</li>
+<li>16:00 - 16:45 Pitches Tool Demos/Demonstrators</li>
+<li>16:45 - 17:15 Agile Needs System Engineering (Jasminka Matevska</li> 
+<li>17:15 – 17:30 Wrap Up Day 1</li>
 <br>
 <li>ca. 19:00  (Optional) Social Dinner Goldmarie (self-pay)
 </ul>
@@ -51,7 +51,7 @@ Registration and organizational information: Leman Sözücok (sekr-sse@uni-hilde
 <!--Meetings der Einzelnen Arbeitsgruppen (DevOps, Zwiebelschale, Challenges/Research Agenda, Neues Thema TBD)-->
 <ul>
 <li>09:00         Start Day 2</li>
-<li>09:05 – 09:50 Model-driven platforms for Industry 4.0, the IIP-Ecosphere case (HolgerEichelberger)</li>
+<li>09:05 – 09:50 Model-driven platforms for Industry 4.0, the IIP-Ecosphere case (Holger Eichelberger)</li>
 <li>09:50 – 10:30 Collecting Topics, Pitches for Topics (Barcamp-Style) (Moderator: Jörg Walter)</li>
 <li>10:30 – 11:00 Break</li>
 <li>11:00 – 12:30 Barcamp Round 1</li>
@@ -70,7 +70,7 @@ Registration and organizational information: Leman Sözücok (sekr-sse@uni-hilde
 <li>09:10 – 10:00 Summary Preparation of Working groups</li>
 <li>10:30 – 11:00 Break</li>
 <li>11:00 – 12:00 Summary Presentations</li>
-<li>12:00 - 12:30 Next steps and follow-up</li>
+<li>12:00 – 12:30 Next steps and follow-up</li>
 <li>12:30 – 14:00 Lunch</li>
 </ul>
 
