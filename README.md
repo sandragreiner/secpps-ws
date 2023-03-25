@@ -85,8 +85,31 @@ Registration and organizational information: Leman Sözücok (sekr-sse@uni-hilde
 We will produce and publish a short report after the workshop that will be distributed to participants and members of the SECPPS community.
 
 ## Participation
-more details regarding registration will be online soon. Final details on the finances need to be defined. We expect a participation fee of about 110 EUR (including dinner, museum tour, snacks, beverages).
+For registration, please copy and fill in the following form, and send it via Email to: sekr-sse@sse.uni-hildesheim.de
+(The registration fee is 100 EUR, which covers all costs, including the social event on the 1st of June, museum tour, snacks, and beverages. 
+Upon the registration, you will receive the information regarding the bank transfer.)
 
+------------------------ | ------------ | --------
+I will participate on:   | 31st of May  | checkbox
+                         | 1st of June  | checkbox
+                         | 2nd of June  | checkbox
+------------------------ | ------------ | --------			 
+I will participate       | museum tour  | checkbox
+                         | dinner       | checkbox
+------------------------ | ------------ | --------			 
+Dietary restrictions     | vegetarian   | checkbox
+                         | vegan        | checkbox
+                         | other        | checkbox
+------------------------ | ------------ | --------			 
+if other, please specify: ______________________
+
+Regarding accomodation, you can find information and recommendations at: 
+https://sse.uni-hildesheim.de/kontakt/anfahrt-und-hotels/
+
+
+
+
+----
 
 # SECPPS 2023/1 (ETFA 2023, Sep 12-15, 2023)
 
