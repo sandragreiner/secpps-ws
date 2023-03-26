@@ -115,7 +115,7 @@ https://sse.uni-hildesheim.de/kontakt/anfahrt-und-hotels/
 
 ----
 
-# SECPPS 2023/1 (ETFA 2023, Sep 12-15, 2023)
+# SECPPS 2023/2 (ETFA 2023, Sep 12-15, 2023)
 
 Our workshop series will have an appearance as Special Session at [ETFA 2023](https://2023.ieee-etfa.org), the 28th International Conference on Emerging Technologies and Factory Automation from September 12-15, 2023.
 
