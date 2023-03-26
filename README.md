@@ -26,9 +26,9 @@ We have set up a Google Drive Folder in which we collected the results of the wo
 
 This workshop aims to build on the open format of previous workshops and aims to summarize existing work, identify new input and mostly focus on an open exchange, leading to a co-creative process as a basis for new and future work.  
 
-For more information regarding the workshop (especially for people who are interested to attend for the first time planning  one of the workshops and have questions; please contact Klaus Schmid (schmid@sse.uni-hildesheim.de); https://sse.uni-hildesheim.de/en/staff/prof-dr-klaus-schmid/
+For more information regarding the workshop (especially for people who are interested to attend for the first time planning  one of the workshops and have questions; please contact Klaus Schmid (<a href="mailto:schmid@sse.uni-hildesheim.de">schmid@sse.uni-hildesheim.de</a>); <a href="https://sse.uni-hildesheim.de/en/staff/prof-dr-klaus-schmid/">https://sse.uni-hildesheim.de/en/staff/prof-dr-klaus-schmid/</a>
 
-Registration and organizational information: Leman Sözücok (sekr-sse@uni-hildesheim.de); https://sse.uni-hildesheim.de/en/staff/leman-soezuecok/
+Registration and organizational information: Leman Sözücok (<a href="mailto:sekr-sse@uni-hildesheim.de">sekr-sse@uni-hildesheim.de</a>); <a href="https://sse.uni-hildesheim.de/en/staff/leman-soezuecok/">https://sse.uni-hildesheim.de/en/staff/leman-soezuecok/</a>
 
 
 ## Organizers
