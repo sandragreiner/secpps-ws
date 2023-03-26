@@ -20,6 +20,101 @@ We have set up a Google Drive Folder in which we collected the results of the wo
 
 <a href="https://www.jku.at/linz-institute-of-technology/forschung/research-labs/cyber-physical-systems-lab/team/univ-prof-di-dr-alois-zoitl/">Alois Zoitl</a> is Full Professor for Cyber-Physical Systems for Engineering and Production at the Linz Institute of Technology (LIT) at Johannes Kepler University Linz, Austria and is leading the Christian Doppler Laboratory VaSiCS.
 
+---
+
+# SECPPS 2023/1 (Universität Hildesheim, May 31st-June 2nd, 2023)
+
+This workshop aims to build on the open format of previous workshops and aims to summarize existing work, identify new input and mostly focus on an open exchange, leading to a co-creative process as a basis for new and future work.  
+
+For more information regarding the workshop (especially for people who are interested to attend for the first time planning  one of the workshops and have questions; please contact Klaus Schmid (schmid@sse.uni-hildesheim.de); https://sse.uni-hildesheim.de/en/staff/prof-dr-klaus-schmid/
+
+Registration and organizational information: Leman Sözücok (sekr-sse@uni-hildesheim.de); https://sse.uni-hildesheim.de/en/staff/leman-soezuecok/
+
+
+## Organizers
+
+<a href="https://sse.uni-hildesheim.de/en/staff/prof-dr-klaus-schmid/">Klaus Schmid</a> is Full Professor for Software Engineering at the University of Hildesheim, Germany.
+
+<a href="https://sse.uni-hildesheim.de/en/staff/dr-rer-nat-holger-eichelberger/">Holger Eichelberger</a> is Senior Researcher at the Software Engineering group at the University of Hildesheim, Germany.
+
+<a href="https://sse.uni-hildesheim.de/en/staff/dr-christian-severin-sauer/">Christian Sauer</a> is Post-Doc Researcher at the Software Engineering group at the University of Hildesheim, Germany.
+
+
+## Agenda
+
+<b>We, 31.5.</b>
+
+<ul>
+<li>14:00 – 14:10 Welcome by Organizers (K. Schmid, H. Eichelberger, C. Sauer)</li>
+<li>14:10 – 14:30 Introduction Round</li>
+<li>14:30 – 15:00 Report on recent advances: short presentations</li> <!-- Papervorträge ATP/ETFA Challenges Paper (Kevin), ICPS Paper (István), Zwiebelschalenthema (Bianca), ETFA Special Session Papers (TBD)? -->
+<li>15:00 – 15:30 ValiCPPS Absicherung von CPPS (Jörg Walter) </li>
+<li>15:30 – 16:00 Break</li>
+<li>16:00 - 16:45 Pitches Tool Demos/Demonstrators</li>
+<li>16:45 - 17:15 Agile Needs System Engineering (Jasminka Matevska</li> 
+<li>17:15 – 17:30 Wrap Up Day 1</li>
+<br>
+<li>ca. 19:00  (Optional) Social Dinner Goldmarie (self-pay)
+</ul>
+
+<b>Th, 1.6.</b>
+<!--Meetings der Einzelnen Arbeitsgruppen (DevOps, Zwiebelschale, Challenges/Research Agenda, Neues Thema TBD)-->
+<ul>
+<li>09:00         Start Day 2</li>
+<li>09:05 – 09:50 Model-driven platforms for Industry 4.0, the IIP-Ecosphere case (Holger Eichelberger)</li>
+<li>09:50 – 10:30 Collecting Topics, Pitches for Topics (Barcamp-Style) (Moderator: Jörg Walter)</li>
+<li>10:30 – 11:00 Break</li>
+<li>11:00 – 12:30 Barcamp Round 1</li>
+<li>12:30 – 14:00 Lunch </li>
+<li>14:00 – 15:30 Barcamp Round 2</li>
+<li>15:30 – 16:00 Break</li>
+<li>16:00 – 16:30 Discussion & Wrap Up Day 2</li>  
+<br>
+<li>17:30 Museum Tour</li>
+<li>ca. 19:00 Workshop dinner (included)</li>
+</ul>
+
+<b>Fr, 2.6.</b>
+<ul>
+<li>09:00 Start Day 3</li>
+<li>09:10 – 10:00 Summary Preparation of Working groups</li>
+<li>10:30 – 11:00 Break</li>
+<li>11:00 – 12:00 Summary Presentations</li>
+<li>12:00 – 12:30 Next steps and follow-up</li>
+<li>12:30 – 14:00 Lunch</li>
+</ul>
+
+## Results
+
+We will produce and publish a short report after the workshop that will be distributed to participants and members of the SECPPS community.
+
+## Participation
+For registration, please copy and fill in the following form, and send it via Email to: sekr-sse@sse.uni-hildesheim.de
+(The registration fee is 100 EUR, which covers all costs, including the social event on the 1st of June, museum tour, snacks, and beverages. 
+Upon the registration, you will receive the information regarding the bank transfer.)
+
+I will participate on: 
+* 31st of May: yes/no
+* 1st of June: yes/no
+* 2nd of June: yes/no
+
+I will participate in
+* social Dinner (self-pay) (31st of May): yes/no
+* museum tour (1st of June): yes/no
+* workshop dinner (1st of June):  yes/no
+
+Dietary restrictions:
+* vegetarian: yes/no
+* vegan: yes/no
+* other, please specify: _______
+ 
+
+Regarding accomodation, you can find information and recommendations at: 
+https://sse.uni-hildesheim.de/kontakt/anfahrt-und-hotels/
+
+
+----
+
 # SECPPS 2023/1 (ETFA 2023, Sep 12-15, 2023)
 
 Our workshop series will have an appearance as Special Session at [ETFA 2023](https://2023.ieee-etfa.org), the 28th International Conference on Emerging Technologies and Factory Automation from September 12-15, 2023.
