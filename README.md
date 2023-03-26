@@ -51,16 +51,16 @@ Registration and organizational information: Leman Sözücok (sekr-sse@uni-hilde
 <li>15:00 – 15:30 ValiCPPS Absicherung von CPPS (Jörg Walter) </li>
 <li>15:30 – 16:00 Break</li>
 <li>16:00 - 16:45 Pitches Tool Demos/Demonstrators</li>
-<li>16:45 - 17:15 Agile Needs System Engineering (Jasminka Matevska</li> 
+<li>16:45 - 17:15 Agile Needs System Engineering (Jasminka Matevska)</li> 
 <li>17:15 – 17:30 Wrap Up Day 1</li>
 <br>
-<li>ca. 19:00  (Optional) Social Dinner Goldmarie (self-pay)
-</ul>
+<li>ca. 19:00  (Optional) Social Dinner Goldmarie (self-pay)</li>
+</ul><br>
 
-<b>Th, 1.6.</b>
+<b>Th, 1.6.</b><br>
 <!--Meetings der Einzelnen Arbeitsgruppen (DevOps, Zwiebelschale, Challenges/Research Agenda, Neues Thema TBD)-->
 <ul>
-<li>09:00         Start Day 2</li>
+<li>09:00 Start Day 2</li>
 <li>09:05 – 09:50 Model-driven platforms for Industry 4.0, the IIP-Ecosphere case (Holger Eichelberger)</li>
 <li>09:50 – 10:30 Collecting Topics, Pitches for Topics (Barcamp-Style) (Moderator: Jörg Walter)</li>
 <li>10:30 – 11:00 Break</li>
@@ -72,7 +72,7 @@ Registration and organizational information: Leman Sözücok (sekr-sse@uni-hilde
 <br>
 <li>17:30 Museum Tour</li>
 <li>ca. 19:00 Workshop dinner (included)</li>
-</ul>
+</ul><br>
 
 <b>Fr, 2.6.</b>
 <ul>
