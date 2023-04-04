@@ -110,7 +110,7 @@ Dietary restrictions:
  
 
 Regarding accomodation, you can find information and recommendations at: 
-https://sse.uni-hildesheim.de/kontakt/anfahrt-und-hotels/
+<a href="https://sse.uni-hildesheim.de/kontakt/anfahrt-und-hotels/">https://sse.uni-hildesheim.de/kontakt/anfahrt-und-hotels/</a>
 
 
 ----
