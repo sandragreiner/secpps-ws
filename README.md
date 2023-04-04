@@ -50,8 +50,8 @@ Registration and organizational information: Leman Sözücok (<a href="mailto:se
 <li>14:30 – 15:00 Report on recent advances: short presentations</li> <!-- Papervorträge ATP/ETFA Challenges Paper (Kevin), ICPS Paper (István), Zwiebelschalenthema (Bianca), ETFA Special Session Papers (TBD)? -->
 <li>15:00 – 15:30 ValiCPPS Absicherung von CPPS (Jörg Walter) </li>
 <li>15:30 – 16:00 Break</li>
-<li>16:00 - 16:45 Pitches Tool Demos/Demonstrators</li>
-<li>16:45 - 17:15 Agile Needs System Engineering (Jasminka Matevska)</li> 
+<li>16:00 - 16:30 Agile Needs System Engineering (Jasminka Matevska)</li> 
+<li>16:30 - 17:15 Pitches/Open Discussion</li>
 <li>17:15 – 17:30 Wrap Up Day 1</li>
 <br>
 <li>ca. 19:00  (Optional) Social Dinner Goldmarie (self-pay)</li>
