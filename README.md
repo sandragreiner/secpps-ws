@@ -28,7 +28,7 @@ This workshop aims to build on the open format of previous workshops and aims to
 
 For more information regarding the workshop (especially for people who are interested to attend for the first time planning  one of the workshops and have questions; please contact Klaus Schmid (<a href="mailto:schmid@sse.uni-hildesheim.de">schmid@sse.uni-hildesheim.de</a>); <a href="https://sse.uni-hildesheim.de/en/staff/prof-dr-klaus-schmid/">https://sse.uni-hildesheim.de/en/staff/prof-dr-klaus-schmid/</a>
 
-Registration and organizational information: Leman Sözücok (<a href="mailto:sekr-sse@uni-hildesheim.de">sekr-sse@uni-hildesheim.de</a>); <a href="https://sse.uni-hildesheim.de/en/staff/leman-soezuecok/">https://sse.uni-hildesheim.de/en/staff/leman-soezuecok/</a>
+Registration and organizational information: Leman Sözücok (<a href="mailto:sekr-sse@uni-hildesheim.de">sekr-sse@sse.uni-hildesheim.de</a>); <a href="https://sse.uni-hildesheim.de/en/staff/leman-soezuecok/">https://sse.uni-hildesheim.de/en/staff/leman-soezuecok/</a>
 
 
 ## Organizers
