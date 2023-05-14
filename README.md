@@ -61,10 +61,11 @@ Registration and organizational information: Leman Sözücok (<a href="mailto:se
 <!--Meetings der Einzelnen Arbeitsgruppen (DevOps, Zwiebelschale, Challenges/Research Agenda, Neues Thema TBD)-->
 <ul>
 <li>09:00 Start Day 2</li>
-<li>09:05 – 09:50 Model-driven platforms for Industry 4.0, the IIP-Ecosphere case (Holger Eichelberger)</li>
-<li>09:50 – 10:30 Collecting Topics, Pitches for Topics (Barcamp-Style) (Moderator: Jörg Walter)</li>
-<li>10:30 – 11:00 Break</li>
-<li>11:00 – 12:30 Barcamp Round 1</li>
+<li>09:05 – 09:45 Challenges in software engineering from a mechanical engineering perspective (Marcel Wichmann)</li>
+<li>09:45 - 10:25 Model-driven platforms for Industry 4.0, the IIP-Ecosphere case (Holger Eichelberger)</li>
+<li>10:25 – 10:50 Break</li>
+<li>10:50 – 11:20 Collecting Topics, Pitches for Topics (Barcamp-Style) (Moderator: Jörg Walter)</li>
+<li>11:20 – 12:30 Barcamp Round 1</li>
 <li>12:30 – 14:00 Lunch </li>
 <li>14:00 – 15:30 Barcamp Round 2</li>
 <li>15:30 – 16:00 Break</li>
