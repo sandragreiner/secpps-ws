@@ -30,6 +30,9 @@ For more information regarding the workshop (especially for people who are inter
 
 Registration and organizational information: Leman Sözücok (<a href="mailto:sekr-sse@uni-hildesheim.de">sekr-sse@sse.uni-hildesheim.de</a>); <a href="https://sse.uni-hildesheim.de/en/staff/leman-soezuecok/">https://sse.uni-hildesheim.de/en/staff/leman-soezuecok/</a>
 
+## Place: 
+Center for World Music: Timotheusplatz 1; 31141 Hildesheim
+<a href="https://www.uni-hildesheim.de/en/center-for-world-music/">https://www.uni-hildesheim.de/en/center-for-world-music/
 
 ## Organizers
 
@@ -91,8 +94,6 @@ We will produce and publish a short report after the workshop that will be distr
 
 ## Participation
 For registration, please copy and fill in the following form, and send it via Email to: sekr-sse@sse.uni-hildesheim.de
-(The registration fee is 100 EUR, which covers all costs, including the social event on the 1st of June, museum tour, snacks, and beverages. 
-Upon the registration, you will receive the information regarding the bank transfer.)
 
 I will participate on: 
 * 31st of May: yes/no
@@ -109,7 +110,6 @@ Dietary restrictions:
 * vegan: yes/no
 * other, please specify: _______
  
-
 Regarding accomodation, you can find information and recommendations at: 
 <a href="https://sse.uni-hildesheim.de/kontakt/anfahrt-und-hotels/">https://sse.uni-hildesheim.de/kontakt/anfahrt-und-hotels/</a>
 
