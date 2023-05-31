@@ -83,7 +83,7 @@ Center for World Music: Timotheusplatz 1; 31141 Hildesheim
 <b>Fr, 2.6.</b>
 <ul>
 <li>09:00 Start Day 3</li>
-<li>09:10 – 10:00 Summary Preparation of Working groups</li>
+<li>09:10 – 10:30 Summary Preparation of Working groups</li>
 <li>10:30 – 11:00 Break</li>
 <li>11:00 – 12:00 Summary Presentations</li>
 <li>12:00 – 12:30 Next steps and follow-up</li>
