@@ -32,7 +32,9 @@ Registration and organizational information: Leman Sözücok (<a href="mailto:se
 
 ## Place: 
 Center for World Music: Timotheusplatz 1; 31141 Hildesheim
-<a href="https://www.uni-hildesheim.de/en/center-for-world-music/">https://www.uni-hildesheim.de/en/center-for-world-music/
+<a href="https://www.uni-hildesheim.de/en/center-for-world-music/">https://www.uni-hildesheim.de/en/center-for-world-music/ </a> <br>
+<a href="https://goo.gl/maps/uYLFL9Uuwe4Vr4h86">Place in Google maps</a> 
+
 
 ## Organizers
 
