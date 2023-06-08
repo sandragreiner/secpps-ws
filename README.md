@@ -55,7 +55,7 @@ Center for World Music: Timotheusplatz 1; 31141 Hildesheim
 <li>14:30 – 15:15 Report on recent advances: short presentations</li> <!-- Papervorträge ATP/ETFA Challenges Paper (Kevin), ICPS Paper (István), Zwiebelschalenthema (Bianca), ETFA Special Session Papers (TBD)? -->
 <li>15:15 – 15:45 ValiCPPS Absicherung von CPPS (Jörg Walter) </li>
 <li>15:45 – 16:15 Break</li>
-<li>16:15 – 16:45 Agile Needs Systems Engineering (Jasminka Matevska)</li> 
+<li>16:15 – 16:45 [Agile Needs Systems Engineering (Jasminka Matevska)](SECPPS-2023-Material/2023_SECPPS_AgileNeedsSystemsEngineering_Matevska.pdf)</li> 
 <li>16:45 – 17:30 Pitches/Open Discussion</li>
 <li>17:30 – 17:45 Wrap Up Day 1</li>
 <br>
