@@ -46,21 +46,19 @@ Center for World Music: Timotheusplatz 1; 31141 Hildesheim
 
 
 ## Agenda
-
 <b>We, 31.5.</b>
 
-<ul>
-<li>14:00 – 14:10 Welcome by Organizers (K. Schmid, H. Eichelberger, C. Sauer)</li>
-<li>14:10 – 14:30 Introduction Round</li>
-<li>14:30 – 15:15 Report on recent advances: short presentations</li> <!-- Papervorträge ATP/ETFA Challenges Paper (Kevin), ICPS Paper (István), Zwiebelschalenthema (Bianca), ETFA Special Session Papers (TBD)? -->
-<li>15:15 – 15:45 ValiCPPS Absicherung von CPPS (Jörg Walter) </li>
-<li>15:45 – 16:15 Break</li>
-<li>16:15 – 16:45 [Agile Needs Systems Engineering - Jasminka Matevska](SECPPS-2023-Material/2023_SECPPS_AgileNeedsSystemsEngineering_Matevska.pdf)</li> 
-<li>16:45 – 17:30 Pitches/Open Discussion</li>
-<li>17:30 – 17:45 Wrap Up Day 1</li>
-<br>
-<li>ca. 19:00  (Optional) Social Dinner Goldmarie (self-pay)</li>
-</ul><br>
+-  14:00 – 14:10 Welcome by Organizers (K. Schmid, H. Eichelberger, C. Sauer)
+- 14:10 – 14:30 Introduction Round 
+- 14:30 – 15:15 Report on recent advances: short presentations <!-- Papervorträge ATP/ETFA Challenges Paper (Kevin), ICPS Paper (István), Zwiebelschalenthema (Bianca), ETFA Special Session Papers (TBD)? -->
+- 15:15 – 15:45 ValiCPPS Absicherung von CPPS (Jörg Walter)
+- 15:45 – 16:15 Break
+- 16:15 – 16:45 [Agile Needs Systems Engineering - Jasminka Matevska](SECPPS-2023-Material/2023_SECPPS_AgileNeedsSystemsEngineering_Matevska.pdf)
+- 16:45 – 17:30 Pitches/Open Discussion
+- 17:30 – 17:45 Wrap Up Day 1
+
+* ca. 19:00  (Optional) Social Dinner Goldmarie (self-pay)</li>
+
 
 <b>Th, 1.6.</b><br>
 <!--Meetings der Einzelnen Arbeitsgruppen (DevOps, Zwiebelschale, Challenges/Research Agenda, Neues Thema TBD)-->
