@@ -64,7 +64,7 @@ Center for World Music: Timotheusplatz 1; 31141 Hildesheim
 <!--Meetings der Einzelnen Arbeitsgruppen (DevOps, Zwiebelschale, Challenges/Research Agenda, Neues Thema TBD)-->
 
 - 09:00 Start Day 2
-- 09:05 – 09:45 Challenges in software engineering from a mechanical engineering perspective (Marcel Wichmann)
+- 09:05 – 09:45 [Challenges in software engineering from a mechanical engineering perspective (Marcel Wichmann)](SECPPS-2023-Material/IFW_Challenges_in_software_engineering_for_CPPS.pdf)
 - 09:45 - 10:25 [Model-driven platforms for Industry 4.0, the IIP-Ecosphere case (Holger Eichelberger)](SECPPS-2023-Material/SECPPS-Eichelberger.pdf)
 - 10:25 – 10:50 Break
 - 10:50 – 11:20 Collecting Topics, Pitches for Topics (Barcamp-Style) (Moderator: Jörg Walter)
