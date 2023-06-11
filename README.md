@@ -46,39 +46,38 @@ Center for World Music: Timotheusplatz 1; 31141 Hildesheim
 
 
 ## Agenda
-
 <b>We, 31.5.</b>
 
-<ul>
-<li>14:00 – 14:10 Welcome by Organizers (K. Schmid, H. Eichelberger, C. Sauer)</li>
-<li>14:10 – 14:30 Introduction Round</li>
-<li>14:30 – 15:15 Report on recent advances: short presentations</li> <!-- Papervorträge ATP/ETFA Challenges Paper (Kevin), ICPS Paper (István), Zwiebelschalenthema (Bianca), ETFA Special Session Papers (TBD)? -->
-<li>15:15 – 15:45 ValiCPPS Absicherung von CPPS (Jörg Walter) </li>
-<li>15:45 – 16:15 Break</li>
-<li>16:15 – 16:45 Agile Needs Systems Engineering (Jasminka Matevska)</li> 
-<li>16:45 – 17:30 Pitches/Open Discussion</li>
-<li>17:30 – 17:45 Wrap Up Day 1</li>
-<br>
-<li>ca. 19:00  (Optional) Social Dinner Goldmarie (self-pay)</li>
-</ul><br>
+- 14:00 – 14:10 Welcome by Organizers (K. Schmid, H. Eichelberger, C. Sauer)
+- 14:10 – 14:30 Introduction Round 
+- 14:30 – 15:15 Report on recent advances: short presentations <!-- Papervorträge ATP/ETFA Challenges Paper (Kevin), ICPS Paper (István), Zwiebelschalenthema (Bianca), ETFA Special Session Papers (TBD)? -->
+- 15:15 – 15:45 ValiCPPS Absicherung von CPPS (Jörg Walter)
+- 15:45 – 16:15 Break
+- 16:15 – 16:45 [Agile Needs Systems Engineering (Jasminka Matevska)](SECPPS-2023-Material/2023_SECPPS_AgileNeedsSystemsEngineering_Matevska.pdf)
+- 16:45 – 17:30 Pitches/Open Discussion
+- 17:30 – 17:45 Wrap Up Day 1
+
+* ca. 19:00  (Optional) Social Dinner Goldmarie (self-pay)
+
 
 <b>Th, 1.6.</b><br>
 <!--Meetings der Einzelnen Arbeitsgruppen (DevOps, Zwiebelschale, Challenges/Research Agenda, Neues Thema TBD)-->
-<ul>
-<li>09:00 Start Day 2</li>
-<li>09:05 – 09:45 Challenges in software engineering from a mechanical engineering perspective (Marcel Wichmann)</li>
-<li>09:45 - 10:25 Model-driven platforms for Industry 4.0, the IIP-Ecosphere case (Holger Eichelberger)</li>
-<li>10:25 – 10:50 Break</li>
-<li>10:50 – 11:20 Collecting Topics, Pitches for Topics (Barcamp-Style) (Moderator: Jörg Walter)</li>
-<li>11:20 – 12:30 Barcamp Round 1</li>
-<li>12:30 – 14:00 Lunch </li>
-<li>14:00 – 15:30 Barcamp Round 2</li>
-<li>15:30 – 16:00 Break</li>
-<li>16:00 – 16:30 Discussion & Wrap Up Day 2</li>  
+
+- 09:00 Start Day 2
+- 09:05 – 09:45 [Challenges in software engineering from a mechanical engineering perspective (Marcel Wichmann)](SECPPS-2023-Material/IFW_Challenges_in_software_engineering_for_CPPS.pdf)
+- 09:45 - 10:25 [Model-driven platforms for Industry 4.0, the IIP-Ecosphere case (Holger Eichelberger)](SECPPS-2023-Material/SECPPS-Eichelberger.pdf)
+- 10:25 – 10:50 Break
+- 10:50 – 11:20 Collecting Topics, Pitches for Topics (Barcamp-Style) (Moderator: Jörg Walter)
+- 11:20 – 12:30 Barcamp Round 1
+- 12:30 – 14:00 Lunch
+- 14:00 – 15:30 Barcamp Round 2
+- 15:30 – 16:00 Break
+- 16:00 – 16:30 Discussion & Wrap Up Day 2
+
+* 17:30 Museum Tour
+* ca. 19:00 Workshop dinner (included)
+
 <br>
-<li>17:30 Museum Tour</li>
-<li>ca. 19:00 Workshop dinner (included)</li>
-</ul><br>
 
 <b>Fr, 2.6.</b>
 <ul>
