@@ -1,1 +1,16 @@
-theme: jekyll-theme-slate
+title: Software Engineering for Cyber-Physical Production Systems
+email: sandra.greiner@unibe.ch
+
+url: "https://secpps.github.io/"
+#permalink: /:categories/:year/:month/:day/:title:output_ext
+
+
+description:  Series of the Workshops of Software Engineering for Cyber-Pyhsical Production Systems  
+
+theme: minima #jekyll-theme-slate
+plugins:
+  - jekyll-feed
+
+collections:
+  contents:
+    output: true
