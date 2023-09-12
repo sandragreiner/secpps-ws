@@ -1,6 +1,6 @@
 ---
 title: SECPPS Workshop Series
-layout: home
+layout: page
 ---
 # Welcome to the Homepage of the SECPPS Workshop Series
 
