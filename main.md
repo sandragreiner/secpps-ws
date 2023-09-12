@@ -2,7 +2,7 @@
 title: SECPPS Workshop Series
 layout: home
 ---
-## Welcome to the Homepage of the SECPPS Workshop Series
+# Welcome to the Homepage of the SECPPS Workshop Series
 
 Software plays an increasingly important role in assuring effective and efficient operation of industrial automation engineering systems. However, software engineering methods applied in this field lag behind the conventional software engineering methods, where tremendous progress has been made in the last years.
 
@@ -27,12 +27,12 @@ Please join our initiative to get access, e.g., be registering for and participa
 
 # Preceding Workshop Editions:
 
-  - <a href="/etfa23/">5th SECPPS Workshop</a> co-located as Special Session with ETFA 2023 in Sinaia, Romania 
-  - <a href="/hildesheim23/">4th SECPPS Workshop</a> at University of Hildesheim, Germany 
-  - <a href="/traunkirchen23/">3rd SECPPS Workshop</a> located at the International Academy Traunkirchen, Austria  
-  - <a href="/intermediary22/"> Informal intermediary meetings</a>
-  - <a href="/se22/">2nd SECPPS Workshop </a> co-located with SE 2022 (virtual, AoE)
-  - <a href="/se21/">1st SECPPS Workshop </a> co-located with SE 2021 (virtual, AoE)
+  - <a href="./etfa23/">5th SECPPS Workshop</a> co-located as Special Session with ETFA 2023 in Sinaia, Romania 
+  - <a href="./hildesheim23/">4th SECPPS Workshop</a> at University of Hildesheim, Germany 
+  - <a href="./traunkirchen23/">3rd SECPPS Workshop</a> located at the International Academy Traunkirchen, Austria  
+  - <a href="./intermediary22/"> Informal intermediary meetings</a>
+  - <a href="./se22/">2nd SECPPS Workshop </a> co-located with SE 2022 (virtual, AoE)
+  - <a href="./se21/">1st SECPPS Workshop </a> co-located with SE 2021 (virtual, AoE)
   
 --- 
 
