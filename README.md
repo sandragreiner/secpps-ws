@@ -1,7 +1,4 @@
----
-title: SECPPS Workshop Series
----
-
+  
 # Welcome to the Homepage of the SECPPS Workshop Series
 
 Software plays an increasingly important role in assuring effective and efficient operation of industrial automation engineering systems. However, software engineering methods applied in this field lag behind the conventional software engineering methods, where tremendous progress has been made in the last years.
