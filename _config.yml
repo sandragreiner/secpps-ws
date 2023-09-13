@@ -2,7 +2,7 @@
 #email: sandra.greiner@unibe.ch
 
 # url: "https://sandragreiner.github.io/secpps"
-baseurl: "/secpps"
+# baseurl: "/secpps"
 #permalink: /:categories/:year/:month/:day/:title:output_ext
 
 
@@ -13,6 +13,6 @@ theme: jekyll-theme-slate
 # plugins:
 #   - jekyll-feed
 
-collections:
-  contents:
-    output: true
+# collections:
+#   contents:
+#     output: true
