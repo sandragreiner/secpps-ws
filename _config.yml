@@ -8,8 +8,7 @@ baseurl: "/secpps"
 
 description:  Series of the Workshops of Software Engineering for Cyber-Pyhsical Production Systems  
 
-theme: minima #
-  # jekyll-theme-slate
+theme: jekyll-theme-slate
 
 plugins:
   - jekyll-feed
