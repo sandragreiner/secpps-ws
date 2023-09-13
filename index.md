@@ -23,8 +23,6 @@ Please join our initiative to get access, e.g., be registering for and participa
   
 --- 
 
----
-
 # Preceding Workshop Editions:
 
   - <a href="./etfa23/">5th SECPPS Workshop</a> co-located as Special Session with ETFA 2023 in Sinaia, Romania 
