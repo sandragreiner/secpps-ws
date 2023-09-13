@@ -2,7 +2,6 @@
 permalink: /traunkirchen23/
 year: 2023
 slug: traunkirchen
-layout: page
 ---
 # SECPPS 2022/2 (Internationale Akademie Traunkirchen, Jun 1-3, 2022)
 

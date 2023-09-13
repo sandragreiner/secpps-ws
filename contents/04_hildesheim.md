@@ -2,7 +2,6 @@
 permalink: /hildesheim23/
 year: 2023
 slug: hildesheim
-layout: page
 ---
 # SECPPS 2023/1 (Universität Hildesheim, May 31st-June 2nd, 2023)
 

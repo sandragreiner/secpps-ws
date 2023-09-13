@@ -2,7 +2,6 @@
 permalink: /etfa23/
 year: 2023
 slug: etfa
-layout: page
 ---
 # SECPPS 2023/2 (ETFA 2023, Sep 12-15, 2023)
 
