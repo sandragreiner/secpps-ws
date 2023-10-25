@@ -1,6 +1,7 @@
 ---
 permalink: /intermediary22/
 year: 2022
+slug: intermediary
 ---
 
 # SECPPS 2021/3 (October 1, 2021)
