@@ -16,7 +16,8 @@ Please join our initiative to get access, e.g., be registering for and participa
 
 # Upcoming Workshop Editions:
 
-  <a href="./se24">6th SECPPS Workshop co-located with SE 2024 at JKU Linz, AT</a>
+  - Feb. 2024: [6th SECPPS Workshop (Conference Edition) co-located with SE 2024 at JKU Linz, AT](./se24)
+  - May 2024: [7th SECPPS Workshop (Community Edition) at OFFIS, Oldenburg, DE](./oldenburg24)
   
 --- 
 
