@@ -5,7 +5,7 @@ slug: oldenburg
 ---
 #### Software-Engineering for Cyber-Physical Production Systems (SECPPS)
 # Workshop 2024/2 -- Community Edition
-#### OFFIS, Oldenburg, May 28th-30th, 2024
+#### OFFIS, Oldenburg, May 21st-23rd, 2024
 
 The community edition of the SECPPS workshop focuses on a constructive and
 open exchange process to guide industry-relevant research and to help
@@ -25,13 +25,15 @@ For more information regarding the workshop, especially for people who are
 interested to attend for the first time, please contact [Jörg Walter](https://www.offis.de/en/offis/person/joerg-walter.html)
 ([joerg.walter@offis.de](mailto:joerg.walter@offis.de?subject=SECPPS24 Information))
 
+**Note:** A draft version of this invitation had a later date. If you saw
+the draft, please note the current, final date of the event.
 
 ## Agenda (preliminary)
 
 The agenda will be adapted based on how many talks have been proposed. The
 times below show a rough expectation of the actual proceedings.
 
-### Tuesday, May 28
+### Tuesday, May 21
 
 - **12:30** - 14:00 (Optional) Lunch
 - **14:00** – 14:10 Welcome by Organizers
@@ -45,7 +47,7 @@ times below show a rough expectation of the actual proceedings.
 * ca. **19:00**  (Optional) Social Dinner (self-pay)
 
 
-### Wednesday, May 29
+### Wednesday, May 22
 
 - **09:00** Start Day 2
 - **09:15** – 10:30 Industrial and/or Invited Talks
@@ -60,7 +62,7 @@ times below show a rough expectation of the actual proceedings.
 * ca. **18:00** Social Event and Workshop Dinner (included)
 
 
-### Thursday, May 30
+### Thursday, May 23
 
 - **09:00** Start Day 3
 - **09:10** – 10:30 Summary Presentation of Barcamp Groups
@@ -84,15 +86,15 @@ e-mail to: [malte.grave@offis.de](mailto:malte.grave@offis.de?subject=SECPPS24 R
 registration fee will be published later; it will not exceed 195 €.
 
     I will participate on: 
-    * 28th of May: yes/no
+    * 21st of May: yes/no
       * Including Lunch: yes/no
-    * 29th of May: yes/no
-    * 30th of May: yes/no
+    * 22nd of May: yes/no
+    * 23rd of May: yes/no
       * Including Lunch: yes/no
 
     I will participate in:
-    * Social Dinner (self-pay) (28th of May): yes/no
-    * Workshop Social Event+Dinner (29th of May):  yes/no
+    * Social Dinner (self-pay) (21st of May): yes/no
+    * Workshop Social Event+Dinner (22nd of May):  yes/no
 
     Dietary restrictions:
     * vegetarian: yes/no
