@@ -60,7 +60,7 @@ times below show a rough expectation of the actual proceedings.
 - **15:30** – 16:00 Coffee and Snacks
 - **16:00** – 17:00 Discussion & Wrap Up Day 2
 
-* ca. **18:00** Social Event and Workshop Dinner (included)
+* ca. **18:00** Social Event and Workshop Dinner at the [Oldenburg Computer Museum](https://computermuseum-oldenburg.de/) (included)
 
 
 ### Thursday, May 23
