@@ -41,7 +41,7 @@ times below show a rough expectation of the actual proceedings.
 - **14:10** – 14:30 Introduction Round
 - **14:30** – 15:30 Industrial and/or Invited Talks
 - **15:30** – 16:00 Coffee and Snacks
-- **16:00** – 17:00 Barcap Introduction and First Topic Pitches
+- **16:00** – 17:00 Barcamp Introduction and First Topic Pitches
 - **17:00** – 17:45 Barcamp Session 1
 - **17:45** – 18:00 Wrap Up Day 1
 
@@ -84,7 +84,7 @@ own follow-up activities.
 
 For registration, please copy and fill in the following form, and send it via
 e-mail to: [malte.grave@offis.de](mailto:malte.grave@offis.de?subject=SECPPS24 Registration). The exact
-registration fee will be published later; it will not exceed 195 €.
+registration fee will be published later; it will not exceed 195 €. Registration deadline is **2023-03-31**.
 
     I will participate on: 
     * 21st of May: yes/no
