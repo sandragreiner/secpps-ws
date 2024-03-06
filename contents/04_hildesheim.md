@@ -32,9 +32,9 @@ Center for World Music: Timotheusplatz 1; 31141 Hildesheim
 - 14:00 – 14:10 Welcome by Organizers (K. Schmid, H. Eichelberger, C. Sauer)
 - 14:10 – 14:30 Introduction Round 
 - 14:30 – 15:15 Report on recent advances: short presentations <!-- Papervorträge ATP/ETFA Challenges Paper (Kevin), ICPS Paper (István), Zwiebelschalenthema (Bianca), ETFA Special Session Papers (TBD)? -->
-- 15:15 – 15:45 [ValiCPPS Absicherung von CPPS (Jörg Walter)](SECPPS-2023-Material/secpps-walter.pdf)
+- 15:15 – 15:45 [ValiCPPS Absicherung von CPPS (Jörg Walter)](../Material/2023/secpps-walter.pdf)
 - 15:45 – 16:15 Break
-- 16:15 – 16:45 [Agile Needs Systems Engineering (Jasminka Matevska)](SECPPS-2023-Material/2023_SECPPS_AgileNeedsSystemsEngineering_Matevska.pdf)
+- 16:15 – 16:45 [Agile Needs Systems Engineering (Jasminka Matevska)](../Material/2023/2023_SECPPS_AgileNeedsSystemsEngineering_Matevska.pdf)
 - 16:45 – 17:30 Pitches/Open Discussion
 - 17:30 – 17:45 Wrap Up Day 1
 
@@ -45,8 +45,8 @@ Center for World Music: Timotheusplatz 1; 31141 Hildesheim
 <!--Meetings der Einzelnen Arbeitsgruppen (DevOps, Zwiebelschale, Challenges/Research Agenda, Neues Thema TBD)-->
 
 - 09:00 Start Day 2
-- 09:05 – 09:45 [Challenges in software engineering from a mechanical engineering perspective (Marcel Wichmann)](SECPPS-2023-Material/IFW_Challenges_in_software_engineering_for_CPPS.pdf)
-- 09:45 - 10:25 [Model-driven platforms for Industry 4.0, the IIP-Ecosphere case (Holger Eichelberger)](SECPPS-2023-Material/SECPPS-Eichelberger.pdf)
+- 09:05 – 09:45 [Challenges in software engineering from a mechanical engineering perspective (Marcel Wichmann)](../Material/2023/IFW_Challenges_in_software_engineering_for_CPPS.pdf)
+- 09:45 - 10:25 [Model-driven platforms for Industry 4.0, the IIP-Ecosphere case (Holger Eichelberger)](../Material/2023/SECPPS-Eichelberger.pdf)
 - 10:25 – 10:50 Break
 - 10:50 – 11:20 Collecting Topics, Pitches for Topics (Barcamp-Style) (Moderator: Jörg Walter)
 - 11:20 – 12:30 Barcamp Round 1
