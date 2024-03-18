@@ -18,12 +18,13 @@ Please join our initiative to get access, e.g., be registering for and participa
 
   - Feb. 2024: [6th SECPPS Workshop (Conference Edition) co-located with SE 2024 at JKU Linz, AT](./se24)
   - May 2024: [7th SECPPS Workshop (Community Edition) at OFFIS, Oldenburg, DE](./oldenburg24)
+  - Sep 2024: [8th SECPPS Workshop (Conference Edition) co-located as Special Session with ETFA 2024 in Padova, IT](./etfa24)
   
 --- 
 
 # Preceding Workshop Editions:
 
-  - <a href="./etfa23">5th SECPPS Workshop</a> co-located as Special Session with ETFA 2023 in Sinaia, Romania 
+  - <a href="./etfa24">5th SECPPS Workshop</a> co-located as Special Session with ETFA 2023 in Sinaia, Romania 
   - <a href="./hildesheim23">4th SECPPS Workshop</a> at University of Hildesheim, Germany 
   - <a href="./traunkirchen23">3rd SECPPS Workshop</a> located at the International Academy Traunkirchen, Austria  
   - <a href="./intermediary22"> Informal intermediary meetings</a>
