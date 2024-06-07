@@ -29,55 +29,60 @@ You can find information on past workshops on the [SECPPS workshop series index 
 **Note:** A draft version of this invitation had a later date. If you saw
 the draft, please note the current, final date of the event.
 
-## Agenda (preliminary)
+## Results
 
-The agenda will be adapted based on how many talks have been proposed. The
-times below show a rough expectation of the actual proceedings.
+As usual, the workshop was a great success with lots of interesting discussions. Unexpectedly,
+there were so many interesting topic pitches that we spontaneously recheduled, adding two more
+barcamp slots. The viewpoints of our industrial visitors were well appreciated, and follow-up
+activities have been initiated.
+
+The barcamp results are available to all participants under the published link. Contact
+([joerg.walter@offis.de](mailto:joerg.walter@offis.de?subject=SECPPS24 Information)) if you lost access to it.
+
+## Agenda
+
+This is the final agenda as the event has been held, including our spontaneous reschedulings.
 
 ### Tuesday, May 21
 
-- **12:30** - 14:00 (Optional) Lunch
-- **14:00** – 14:10 Welcome by Organizers
-- **14:10** – 14:30 Introduction Round
-- **14:30** – 15:30 Industrial and/or Invited Talks
-- **15:30** – 16:00 Coffee and Snacks
-- **16:00** – 17:00 Barcamp Introduction and First Topic Pitches
-- **17:00** – 17:45 Barcamp Session 1
-- **17:45** – 18:00 Wrap Up Day 1
+- **12:30** (Optional) Lunch
+- **14:00** Welcome by Organizers
+- **14:10** Introduction Round
+- **14:30** Industrial Talk: A New Architecture to Facilitate Machine Control (Albrecht Wöß, Signum Plus GmbH)
+- **15:30** Coffee and Snacks
+- **16:00** Barcamp Introduction and First Topic Pitches
+- **17:00** Barcamp Session 1
+- **17:45** Wrap Up Day 1
 
-* ca. **19:00**  (Optional) Social Dinner (self-pay)
+- **19:00**  (Optional) Social Dinner (self-pay)
 
 
 ### Wednesday, May 22
 
 - **09:00** Start Day 2
-- **09:15** – 10:30 Industrial and/or Invited Talks
-- **10:30** – 11:00 Coffee and Snacks
-- **11:00** – 11:30 Updated Topic Pitches for Day 2
-- **11:30** – 12:30 Barcamp Session 2
-- **12:30** – 14:00 Lunch
-- **14:00** – 15:30 Barcamp Session 3 & 4
-- **15:30** – 16:00 Coffee and Snacks
-- **16:00** – 17:00 Discussion & Wrap Up Day 2
+- **09:15** Industrial Demo: TRUMPF Maschinen Austria GmbH & Co KG
+- **10:00** Barcamp Pitches Day 2
+- **10:30** Coffee and Snacks
+- **11:00** Barcamp Slot 2
+- **11:45** Barcamp Slot 3
+- **12:30** Lunch
+- **14:00** Invited Talk: Contract-Based Design in Systems Engineering (Ingo Stierand, DLR)
+- **14:45** OFFIS Introduction (Frank Oppenheimer)
+- **15:00** Coffee and Snacks
+- **15:30** Barcamp Slot 4
+- **16:15** Barcamp Slot 5
 
-* ca. **18:00** Social Event and Workshop Dinner at the [Oldenburg Computer Museum](https://computermuseum-oldenburg.de/) (included)
+- **18:00** Social Event and Workshop Dinner at the [Oldenburg Computer Museum](https://computermuseum-oldenburg.de/) (included)
 
 
 ### Thursday, May 23
 
 - **09:00** Start Day 3
-- **09:10** – 10:30 Summary Presentation of Barcamp Groups
-- **10:30** – 11:00 Coffee and Snacks
-- **11:00** – 12:30 Wrap-Up and Proposal/Planning of Next Steps
-- **12:30** – 14:00 (Optional) Lunch
-
-
-## Results
-
-We will produce and publish a short report after the workshop that will be
-distributed to participants and members of the SECPPS community.
-Additionally, the individual Barcamp sessions are encouraged to plan their
-own follow-up activities.
+- **09:10** Recap Day 2
+- **09:45** Barcamp Slot 6
+- **10:30** Coffee & snacks
+- **11:00** Overall recap, discussion & planning of follow-up activities
+- **12:30** (Optional) Lunch
 
 
 ## Participation
