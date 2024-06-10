@@ -16,13 +16,13 @@ Please join our initiative to get access, e.g., be registering for and participa
 
 # Upcoming Workshop Editions:
 
-  - May 2024: [7th SECPPS Workshop (Community Edition) at OFFIS, Oldenburg, DE](./oldenburg24)
   - Sep. 2024: [8th SECPPS Workshop (Conference Edition) co-located as Special Session with ETFA 2024 in Padova, IT](./etfa24)
   
 --- 
 
 # Preceding Workshop Editions:
 
+  - [7th SECPPS Workshop (Community Edition) at OFFIS, Oldenburg, DE](./oldenburg24)
   - <a href="./se24">6th SECPPS Workshop</a> co-located with SE 2024 at JKU Linz, AT
 
   - <a href="./etfa23">5th SECPPS Workshop</a> co-located as Special Session with ETFA 2023 in Sinaia, Romania 
