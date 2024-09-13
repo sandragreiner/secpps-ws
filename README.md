@@ -15,13 +15,12 @@ Please join our initiative to get access, e.g., be registering for and participa
 ---
 
 # Upcoming Workshop Editions:
-
-  - Sep. 2024: [8th SECPPS Workshop (Conference Edition) co-located as Special Session with ETFA 2024 in Padova, IT](./etfa24)
-  
+February 2025: <a href="./se25">9th SECPPS Workshop</a> co-located with SE 2025 at KIT Karlsruhe, Germany
+   
 --- 
 
 # Preceding Workshop Editions:
-
+  - [8th SECPPS Workshop (Conference Edition) co-located as Special Session with ETFA 2024 in Padova, IT](./etfa24)
   - [7th SECPPS Workshop (Community Edition) at OFFIS, Oldenburg, DE](./oldenburg24)
   - <a href="./se24">6th SECPPS Workshop</a> co-located with SE 2024 at JKU Linz, AT
 
