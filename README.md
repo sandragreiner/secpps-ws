@@ -15,8 +15,8 @@ Please join our initiative to get access, e.g., be registering for and participa
 ---
 
 # Upcoming Workshop Editions:
-February 2025: <a href="./se25">9th SECPPS Workshop</a> co-located with SE 2025 at KIT Karlsruhe, Germany
-[10th SECPPS Workshop (Community Edition) at ISW, Stuttgart, DE](./ISW25)
+- February 2025: <a href="./se25">9th SECPPS Workshop</a> co-located with SE 2025 at KIT Karlsruhe, Germany
+- June 2025: [10th SECPPS Workshop](./ISW25) (Community Edition) at ISW Stuttgart, DE
    
 --- 
 
@@ -43,6 +43,6 @@ February 2025: <a href="./se25">9th SECPPS Workshop</a> co-located with SE 2025 
 
 <a href="https://www.se.jku.at/manuel-wimmer">Manuel Wimmer</a> is Full Professor at the Department of Business Informatics - Software Engineering at JKU Linz, Austria and is leading the Christian Doppler Laboratory CDL-MINT.
 
-<a href="https://www.isw.uni-stuttgart.de/institut/team/Wortmann-00002/">Andreas Wortmann</a> is Junior Tenure-Track Professor for Model-based Development in Production Automation at the Institute for Control Engineering of Machine Tools and Manufacturing Units at the University of Stuttgart, Germany. 
+<a href="https://www.isw.uni-stuttgart.de/institut/team/Wortmann-00002/">Andreas Wortmann</a> is Full Professor for Model-Driven Engineering for Manufacturing Automation at the Institute for Control Engineering of Machine Tools and Manufacturing Units at the University of Stuttgart, Germany. 
 
 <a href="https://www.jku.at/linz-institute-of-technology/forschung/research-labs/cyber-physical-systems-lab/team/univ-prof-di-dr-alois-zoitl/">Alois Zoitl</a> is Full Professor for Cyber-Physical Systems for Engineering and Production at the Linz Institute of Technology (LIT) at Johannes Kepler University Linz, Austria and is leading the Christian Doppler Laboratory VaSiCS.
