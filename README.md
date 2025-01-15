@@ -16,7 +16,7 @@ Please join our initiative to get access, e.g., be registering for and participa
 
 # Upcoming Workshop Editions:
 - February 2025: <a href="./se25">9th SECPPS Workshop</a> co-located with SE 2025 at KIT Karlsruhe, Germany
-- June 2025: [10th SECPPS Workshop](./ISW25) (Community Edition) at ISW Stuttgart, DE
+- June 2025: [10th SECPPS Workshop](./Stuttgart25) (Community Edition) at ISW Stuttgart, DE
    
 --- 
 
