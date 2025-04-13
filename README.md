@@ -15,23 +15,22 @@ Please join our initiative to get access, e.g., be registering for and participa
 ---
 
 # Upcoming Workshop Editions:
-- February 2025: <a href="./se25">9th SECPPS Workshop</a> co-located with SE 2025 at KIT Karlsruhe, Germany
 - June 2025: [10th SECPPS Workshop](./Stuttgart25) (Community Edition) at ISW Stuttgart, DE
-   
+- September 2025: [11th SECPPS Workshop](./etfa25) (Conference Edition) co-located as Special Session with ETFA 2025 in Porto, PT   
 --- 
 
 # Preceding Workshop Editions:
-  - [8th SECPPS Workshop (Conference Edition) co-located as Special Session with ETFA 2024 in Padova, IT](./etfa24)
-  - [7th SECPPS Workshop (Community Edition) at OFFIS, Oldenburg, DE](./oldenburg24)
-  - <a href="./se24">6th SECPPS Workshop</a> co-located with SE 2024 at JKU Linz, AT
+  - [9th SECPPS Workshop](./se25) co-located with SE 2025 at KIT Karlsruhe, Germany
+  - [8th SECPPS Workshop](./etfa24) (Conference Edition) co-located as Special Session with ETFA 2024 in Padova, IT
+  - [7th SECPPS Workshop](./oldenburg24) (Community Edition) at OFFIS, Oldenburg, DE
+  - [6th SECPPS Workshop](./se24) co-located with SE 2024 at JKU Linz, AT
+  - [5th SECPPS Workshop](./etfa23) co-located as Special Session with ETFA 2023 in Sinaia, Romania
+  - [4th SECPPS Workshop](./hildesheim23) at University of Hildesheim, Germany
+  - [3rd SECPPS Workshop](./traunkirchen23)  located at the International Academy Traunkirchen, Austria 
+  - [Informal intermediary meetings](./intermediary22)
+  - [2nd SECPPS Workshop](./se22) co-located with SE 2022 (virtual, AoE)
+  - [1st SECPPS Workshop](./se21) co-located with SE 2021 (virtual, AoE)
 
-  - <a href="./etfa23">5th SECPPS Workshop</a> co-located as Special Session with ETFA 2023 in Sinaia, Romania 
-  - <a href="./hildesheim23">4th SECPPS Workshop</a> at University of Hildesheim, Germany 
-  - <a href="./traunkirchen23">3rd SECPPS Workshop</a> located at the International Academy Traunkirchen, Austria  
-  - <a href="./intermediary22"> Informal intermediary meetings</a>
-  - <a href="./se22">2nd SECPPS Workshop </a> co-located with SE 2022 (virtual, AoE)
-  - <a href="./se21">1st SECPPS Workshop </a> co-located with SE 2021 (virtual, AoE)
-  
 --- 
 
 
