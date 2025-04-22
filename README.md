@@ -17,6 +17,7 @@ Please join our initiative to get access, e.g., be registering for and participa
 # Upcoming Workshop Editions:
 - June 2025: [10th SECPPS Workshop](./Stuttgart25) (Community Edition) at ISW Stuttgart, DE
 - September 2025: [11th SECPPS Workshop](./etfa25) (Conference Edition) co-located as Special Session with ETFA 2025 in Porto, PT   
+
 --- 
 
 # Preceding Workshop Editions:
