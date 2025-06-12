@@ -8,19 +8,31 @@ The workshop series addresses the challenges in adopting state-of-the-art softwa
 
 ## Collaborative Space/Results
 
+The following publications directly resulted from our workshop series:
+
+* Kevin Feichtinger, Kristof Meixner, Felix Rinker, István Koren, Holger Eichelberger, Tonja Heinemann, Jörg Holtmann, Marco Konersmann, Judith Michael, Eva-Maria Neumann, Jérôme Pfeiffer, Rick Rabiser, Matthias Riebisch, Klaus Schmid: <a href="https://atpinfo.de/aktuell/atp-magazin-42023-biointelligenz-als-neuer-innovationsraum/">Software in Cyberphysikalischen Produktionssystemen: Herausforderungen zur Umsetzung in der Industrie</a>, atp Magazin, Ausgabe 4, 2023, pp. 62-68.
+
+* Sandra Greiner, Bianca Wiesmayr, Kevin Feichtinger, Kristof Meixner, Marco Konersmann, Jerôme Pfeiffer, Michael Oberlehner, David Schmalzing, Andreas Wortmann, Bernhard Rumpe, Rick Rabiser, Alois Zoitl: <a href="https://doi.org/10.1109/ETFA54631.2023.10275624">Maturity Evaluation of Domain-Specific Language Ecosystems for Cyber-Physical Production Systems</a>, ETFA 2023. 
+
+* István Koren, Felix Rinker, Kristof Meixner, Moritz Kröger, Michael Zeng: <a href="https://doi.org/10.1109/ETFA54631.2023.10275433">Implementing DevOps Practices in CPPS Using Microservices and GitOps</a>. ETFA 2023.
+
+* István Koren, Felix Rinker, Kristof Meixner, Jasminka Matevska, Jörg Walter: <a href="https://doi.org/10.1109/ICPS58381.2023.10128073">Challenges and Opportunities of DevOps in Cyber-Physical Production Systems Engineering</a>. ICPS 2023.
+
+* Kevin Feichtinger, Kristof Meixner, Felix Rinker, István Koren, Holger Eichelberger, Tonja Heinemann, Jörg Holtmann, Marco Konersmann, Judith Michael, Eva-Maria Neumann, Jérôme Pfeiffer, Rick Rabiser, Matthias Riebisch, Klaus Schmid: <a href="https://doi.org/10.1109/ETFA52439.2022.9921568">Industry Voices on Software Engineering Challenges in Cyber-Physical Production Systems Engineering</a>, ETFA 2022.
+
 In the course of the series, we set up a Google Drive Folder in which we collected the results of the workshops (notes, drawings, presentations). 
-We also set up a Github repository to collect reading material (SECPPS Body of Knowledge). Access to both is restricted. 
+We also set up a Github repository to collect material (SECPPS Body of Knowledge). Access to both is restricted. 
 Please join our initiative to get access, e.g., be registering for and participating in one of the next editions of our workshop series (see below) or by contacting the organizers.
 
 ---
 
 # Upcoming Workshop Editions:
-- June 2025: [10th SECPPS Workshop](./Stuttgart25) (Community Edition) at ISW Stuttgart, DE
 - September 2025: [11th SECPPS Workshop](./etfa25) (Conference Edition) co-located as Special Session with ETFA 2025 in Porto, PT   
 
 --- 
 
 # Preceding Workshop Editions:
+  - [10th SECPPS Workshop](./Stuttgart25) (Community Edition) at ISW Stuttgart, DE
   - [9th SECPPS Workshop](./se25) co-located with SE 2025 at KIT Karlsruhe, Germany
   - [8th SECPPS Workshop](./etfa24) (Conference Edition) co-located as Special Session with ETFA 2024 in Padova, IT
   - [7th SECPPS Workshop](./oldenburg24) (Community Edition) at OFFIS, Oldenburg, DE
