@@ -10,7 +10,11 @@ The workshop series addresses the challenges in adopting state-of-the-art softwa
 
 The following publications directly resulted from our workshop series:
 
+* Friederike Bruns, Sven Mehlhop, Bianca Wiesmayr, Alois Zoitl: <a href="https://doi.org/10.1109/ICIT58233.2024.10540790">Enabling Automated Timing Verification: A Unified Approach for Industrial Distributed Control Systems</a>, ICIT 2024.
+
 * Kevin Feichtinger, Kristof Meixner, Felix Rinker, István Koren, Holger Eichelberger, Tonja Heinemann, Jörg Holtmann, Marco Konersmann, Judith Michael, Eva-Maria Neumann, Jérôme Pfeiffer, Rick Rabiser, Matthias Riebisch, Klaus Schmid: <a href="https://atpinfo.de/aktuell/atp-magazin-42023-biointelligenz-als-neuer-innovationsraum/">Software in Cyberphysikalischen Produktionssystemen: Herausforderungen zur Umsetzung in der Industrie</a>, atp Magazin, Ausgabe 4, 2023, pp. 62-68.
+
+* Friederike Bruns, Bianca Wiesmayr, Alois Zoitl: <a href="https://doi.org/10.1109/CASE56687.2023.10260604">Supporting Model-Based Network Specification for Time-Critical Distributed Control Systems in IEC 61499</a>, CASE 2023.
 
 * Sandra Greiner, Bianca Wiesmayr, Kevin Feichtinger, Kristof Meixner, Marco Konersmann, Jerôme Pfeiffer, Michael Oberlehner, David Schmalzing, Andreas Wortmann, Bernhard Rumpe, Rick Rabiser, Alois Zoitl: <a href="https://doi.org/10.1109/ETFA54631.2023.10275624">Maturity Evaluation of Domain-Specific Language Ecosystems for Cyber-Physical Production Systems</a>, ETFA 2023. 
 
